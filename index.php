@@ -84,7 +84,7 @@
     
     
 
-
+    <?php header("Content-type: application/JavaScript; charset=UTF-8");?>
     <script type="module" src="js/script.js"></script>
 </body>
 </html>
