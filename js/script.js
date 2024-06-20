@@ -4,13 +4,13 @@ function getStuffs(url){
     .then(res => res.json())
     .then(data=> {
 
-        document.getElementById("submitClassEmplacementStuff").addEventListener("click", (e) => manageEvent.submitFormClass(e,data));
+        document.getElementById("submitClassEmplacementStuff").addEventListener("click", (e) => submitFormClass(e,data));
 
 
-        document.getElementById("submiTypeEmplacementStuff").addEventListener("click", (e) => manageEvent.submitFormType(e,data));
+        document.getElementById("submiTypeEmplacementStuff").addEventListener("click", (e) => submitFormType(e,data));
 
 
-        document.getElementById("searchItem").addEventListener("click", (e) => manageEvent.searchItem(e,data));
+        document.getElementById("searchItem").addEventListener("click", (e) => searchItem(e,data));
         
         document.getElementById("reset").addEventListener("click", (e) => resetBlockForm());
     })
@@ -21,8 +21,8 @@ function submitFormClass(e,data){
     e.preventDefault();
     blockForm("classEmplacementStuff","typeEmplacementStuff")
 
-    const newArray = manageData.selectResult(data.stuffs);
-    const typeArray = manageData.sortType(newArray);
+    const newArray = selectResult(data.stuffs);
+    const typeArray = sortType(newArray);
 
     createOption(typeArray,"typeStuff")
 }
@@ -32,16 +32,16 @@ function submitFormType(e,data){
     blockForm("typeEmplacementStuff","stuffEmplacementName")
     
 
-    const newArray = manageData.selectResult(data.stuffs);
-    let stuffArray = manageData.SelecType(newArray)
-    const listStuffName = manageData.sortStuff(stuffArray);
+    const newArray = selectResult(data.stuffs);
+    let stuffArray = SelecType(newArray)
+    const listStuffName = sortStuff(stuffArray);
     createOption(listStuffName,"stuffName")
 }
 
 function searchItem(e,data){
     e.preventDefault();
 
-    const newArray = manageData.selectResult(data.stuffs);
+    const newArray = selectResult(data.stuffs);
     
     const nameItem = document.getElementById("stuffName").value;
     const seValue = document.getElementById("seValue").value;
