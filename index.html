@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style/style.css">
+    <title>Document</title>
+</head>
+<body>
+
+
+    <button class="reset" id="reset">reset</button>
+    <article>
+        <form action=""  class="active"  id="classEmplacementStuff">
+            <div class="position-form">
+                <label for="">Indiquez nature de l'équipement</label>
+                <select name="stuff" id="classStuff">
+                    <option value="weapons">arme</option>
+                    <option value="armor">armure</option>
+                </select>
+            </div>
+            
+            <button id="submitClassEmplacementStuff">Valider</button>
+        </form>
+    
+        <form action="" class="type-stuff" id="typeEmplacementStuff">
+
+            <div class="position-form">
+                <label for="">Indiquez le type de l'équipement</label>
+                <select name="stuff" id="typeStuff">
+                </select>
+            </div>
+            
+
+            </select>
+            <button type="submit" id="submiTypeEmplacementStuff">Valider</button>
+        </form>
+    
+        <form action="" class="stuff-name" id="stuffEmplacementName">
+            <div class="position-form">
+                <label for="">Indiquez le nom de l'équipement</label>
+                <select name="stuff" id="stuffName"></select>
+            </div>
+
+            
+            <div class="position-form">
+                <label for="">Indiquer niveau de SE</label>
+                <input type="number" min="1" max="6" id="seValue">
+            </div>
+            
+            <button type="submit" id="searchItem">Valider</button>
+        </form>
+    
+    
+    <div value>
+
+    </div>
+    
+    <table id="itemValue">
+        <thead>
+            <tr>
+                <th scope="col">Nom</th>
+                <th scope="col">Requis</th>
+                <th id="hearderDegat" scope="col"></th>
+                <th scope="col">Niveau SE</th>
+                <th scope="col">Effet</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td id="nameStuff">Dague de base</td>
+                <td id="requiStuff">8</td>
+                <td id="degat">1D2+2</td>
+                <td id="se">1</td>
+                <td id="effet">  </td>
+            </tr>
+        </tbody>
+        
+    </table>
+       
+
+    </article>
+    
+    
+
+
+    <script type="module" src="js/script.js"></script>
+</body>
+</html>

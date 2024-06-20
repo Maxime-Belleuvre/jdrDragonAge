@@ -1,0 +1,5104 @@
+{
+  "stuffs":[
+    {
+      "name": "Dague de base",
+      "req": 8,
+      "degat": "1D2+2",
+      "pr": 0,
+      "se": 1,
+      "effect": "",
+      "type": "dague",
+      "class": "weapons"
+    },
+    {
+      "name": "Dague de base",
+      "req": 6,
+      "degat": "1D3+1",
+      "pr": 0,
+      "se": 2,
+      "effect": "",
+      "type": "dague",
+      "class": "weapons"
+    },
+    {
+      "name": "Dague de base",
+      "req": 4,
+      "degat": "1D6",
+      "pr": 0,
+      "se": 3,
+      "effect": "",
+      "type": "dague",
+      "class": "weapons"
+    },
+    {
+      "name": "Dague de base",
+      "req": 3,
+      "degat": "1D6+1",
+      "pr": 0,
+      "se": 4,
+      "effect": "saignement 5%",
+      "type": "dague",
+      "class": "weapons"
+    },
+    {
+      "name": "Dague de base",
+      "req": 2,
+      "degat": "1D6+2",
+      "pr": 0,
+      "se": 5,
+      "effect": "saignement 10%",
+      "type": "dague",
+      "class": "weapons"
+    },
+    {
+      "name": "Dague de base",
+      "req": 1,
+      "degat": "1D6+2",
+      "pr": 0,
+      "se": 6,
+      "effect": "saignement 15%",
+      "type": "dague",
+      "class": "weapons"
+    },
+    {
+      "name": "Dague-corbeau",
+      "req": 8,
+      "degat": "1D3",
+      "pr": 0,
+      "se": 1,
+      "effect": "saignement 3%",
+      "type": "dague",
+      "class": "weapons"
+    },
+    {
+      "name": "Dague-corbeau",
+      "req": 6,
+      "degat": "1D3+2",
+      "pr": 0,
+      "se": 2,
+      "effect": "saignement 5%",
+      "type": "dague",
+      "class": "weapons"
+    },
+    {
+      "name": "Dague-corbeau",
+      "req": 4,
+      "degat": "1D6+1",
+      "pr": 0,
+      "se": 3,
+      "effect": "saignement 10%",
+      "type": "dague",
+      "class": "weapons"
+    },
+    {
+      "name": "Dague-corbeau",
+      "req": 3,
+      "degat": "1D6+2",
+      "pr": 0,
+      "se": 4,
+      "effect": "saignement 15%",
+      "type": "dague",
+      "class": "weapons"
+    },
+    {
+      "name": "Dague-corbeau",
+      "req": 2,
+      "degat": "1D6+3",
+      "pr": 0,
+      "se": 5,
+      "effect": "saignement 20%",
+      "type": "dague",
+      "class": "weapons"
+    },
+    {
+      "name": "Dague-corbeau",
+      "req": 1,
+      "degat": "1D6+5",
+      "pr": 0,
+      "se": 6,
+      "effect": "saignement 25%",
+      "type": "dague",
+      "class": "weapons"
+    },
+    {
+      "name": "Dague enchantée",
+      "req": 8,
+      "degat": "1D3+1",
+      "pr": 0,
+      "se": 1,
+      "effect": "Saignement (chance : 5%)",
+      "type": "dague",
+      "class": "weapons"
+    },
+    {
+      "name": "Dague enchantée",
+      "req": 6,
+      "degat": "1D6",
+      "pr": 0,
+      "se": 2,
+      "effect": "Saignement (chance : 10%)",
+      "type": "dague",
+      "class": "weapons"
+    },
+    {
+      "name": "Dague enchantée",
+      "req": 4,
+      "degat": "1D6+2",
+      "pr": 0,
+      "se": 3,
+      "effect": "Saignement (chance : 20%)",
+      "type": "dague",
+      "class": "weapons"
+    },
+    {
+      "name": "Dague enchantée",
+      "req": 3,
+      "degat": "1D6+3",
+      "pr": 0,
+      "se": 4,
+      "effect": "Saignement (chance : 25%)",
+      "type": "dague",
+      "class": "weapons"
+    },
+    {
+      "name": "Dague enchantée",
+      "req": 2,
+      "degat": "1D6+4",
+      "pr": 0,
+      "se": 5,
+      "effect": "Saignement (chance : 30%)",
+      "type": "dague",
+      "class": "weapons"
+    },
+    {
+      "name": "Dague enchantée",
+      "req": 1,
+      "degat": "1D6+6",
+      "pr": 0,
+      "se": 6,
+      "effect": "Saignement (chance : 35%)",
+      "type": "dague",
+      "class": "weapons"
+    },
+    {
+      "name": "Dar'misu",
+      "req": 8,
+      "degat": "1D3+1",
+      "pr": 0,
+      "se": 1,
+      "effect": "Saignement (chance : 8%)",
+      "type": "dague",
+      "class": "weapons"
+    },
+    {
+      "name": "Dar'misu",
+      "req": 6,
+      "degat": "1D6",
+      "pr": 0,
+      "se": 2,
+      "effect": "Saignement (chance : 15%)",
+      "type": "dague",
+      "class": "weapons"
+    },
+    {
+      "name": "Dar'misu",
+      "req": 4,
+      "degat": "1D6+2",
+      "pr": 0,
+      "se": 3,
+      "effect": "Saignement (chance : 30%)",
+      "type": "dague",
+      "class": "weapons"
+    },
+    {
+      "name": "Dar'misu",
+      "req": 3,
+      "degat": "1D6+3",
+      "pr": 0,
+      "se": 4,
+      "effect": "Saignement (chance : 35%)",
+      "type": "dague",
+      "class": "weapons"
+    },
+    {
+      "name": "Dar'misu",
+      "req": 2,
+      "degat": "1D6+4",
+      "pr": 0,
+      "se": 5,
+      "effect": "Saignement (chance : 40%)",
+      "type": "dague",
+      "class": "weapons"
+    },
+    {
+      "name": "Dar'misu",
+      "req": 1,
+      "degat": "1D6+6",
+      "pr": 0,
+      "se": 6,
+      "effect": "Saignement (chance : 45%)",
+      "type": "dague",
+      "class": "weapons"
+    },
+    {
+      "name": "Épine de la rose",
+      "req": 7,
+      "degat": "1D3+2",
+      "pr": 0,
+      "se": 1,
+      "effect": "Saignement (chance : 10%)",
+      "type": "dague",
+      "class": "weapons"
+    },
+    {
+      "name": "Épine de la rose",
+      "req": 5,
+      "degat": "1D6+1",
+      "pr": 0,
+      "se": 2,
+      "effect": "Saignement (chance : 20%)",
+      "type": "dague",
+      "class": "weapons"
+    },
+    {
+      "name": "Épine de la rose",
+      "req": 3,
+      "degat": "1D6+3",
+      "pr": 0,
+      "se": 3,
+      "effect": "Saignement (chance : 40%)",
+      "type": "dague",
+      "class": "weapons"
+    },
+    {
+      "name": "Épine de la rose",
+      "req": 2,
+      "degat": "1D6+4",
+      "pr": 0,
+      "se": 4,
+      "effect": "Saignement (chance : 45%)",
+      "type": "dague",
+      "class": "weapons"
+    },
+    {
+      "name": "Épine de la rose",
+      "req": 1,
+      "degat": "1D6+5",
+      "pr": 0,
+      "se": 5,
+      "effect": "Saignement (chance : 50%)",
+      "type": "dague",
+      "class": "weapons"
+    },
+    {
+      "name": "Épine de la rose",
+      "req": 0,
+      "degat": "1D6+7",
+      "pr": 0,
+      "se": 6,
+      "effect": "Saignement (chance : 55%)",
+      "type": "dague",
+      "class": "weapons"
+    },
+    {
+      "name": "Sabre de base",
+      "req": 9,
+      "degat": "1D3",
+      "pr": 0,
+      "se": 1,
+      "effect": "",
+      "type": "épée à 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Sabre de base",
+      "req": 7,
+      "degat": "1D6",
+      "pr": 0,
+      "se": 2,
+      "effect": "Saignement (chance : 5%)",
+      "type": "épée à 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Sabre de base",
+      "req": 5,
+      "degat": "1D6+3",
+      "pr": 0,
+      "se": 3,
+      "effect": "Saignement (chance : 10%)",
+      "type": "épée à 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Sabre de base",
+      "req": 4,
+      "degat": "1D6+4",
+      "pr": 0,
+      "se": 4,
+      "effect": "Saignement (chance : 15%)",
+      "type": "épée à 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Sabre de base",
+      "req": 3,
+      "degat": "1D6+5",
+      "pr": 0,
+      "se": 5,
+      "effect": "Saignement (chance : 20%)",
+      "type": "épée à 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Sabre de base",
+      "req": 2,
+      "degat": "1D6+7",
+      "pr": 0,
+      "se": 6,
+      "effect": "Saignement (chance : 25%)",
+      "type": "épée à 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée de Ser Garlen",
+      "req": 9,
+      "degat": "1D3+1",
+      "pr": 0,
+      "se": 1,
+      "effect": "Saignement (chance : 5%)",
+      "type": "épée à 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée de Ser Garlen",
+      "req": 7,
+      "degat": "1D6+1",
+      "pr": 0,
+      "se": 2,
+      "effect": "Saignement (chance : 10%)",
+      "type": "épée à 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée de Ser Garlen",
+      "req": 5,
+      "degat": "1D6+4",
+      "pr": 0,
+      "se": 3,
+      "effect": "Saignement (chance : 20%)",
+      "type": "épée à 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée de Ser Garlen",
+      "req": 4,
+      "degat": "1D6+5",
+      "pr": 0,
+      "se": 4,
+      "effect": "Saignement (chance : 25%)",
+      "type": "épée à 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée de Ser Garlen",
+      "req": 3,
+      "degat": "1D6+6",
+      "pr": 0,
+      "se": 5,
+      "effect": "Saignement (chance : 30%)",
+      "type": "épée à 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée de Ser Garlen",
+      "req": 2,
+      "degat": "1D6+8",
+      "pr": 0,
+      "se": 6,
+      "effect": "Saignement (chance : 35%)",
+      "type": "épée à 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée-scie",
+      "req": 9,
+      "degat": "",
+      "pr": 0,
+      "se": 1,
+      "effect": "Saignement (chance : 8%)",
+      "type": "épée à 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée-scie",
+      "req": 7,
+      "degat": "",
+      "pr": 0,
+      "se": 2,
+      "effect": "Saignement (chance : 15%)",
+      "type": "épée à 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée-scie",
+      "req": 5,
+      "degat": "",
+      "pr": 0,
+      "se": 3,
+      "effect": "Saignement (chance : 30%)",
+      "type": "épée à 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée-scie",
+      "req": 4,
+      "degat": "",
+      "pr": 0,
+      "se": 4,
+      "effect": "Saignement (chance : 35%)",
+      "type": "épée à 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée-scie",
+      "req": 3,
+      "degat": "",
+      "pr": 0,
+      "se": 5,
+      "effect": "Saignement (chance : 40%)",
+      "type": "épée à 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée-scie",
+      "req": 2,
+      "degat": "",
+      "pr": 0,
+      "se": 6,
+      "effect": "Saignement (chance : 45%)",
+      "type": "épée à 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "La lame verte",
+      "req": 9,
+      "degat": "",
+      "pr": 0,
+      "se": 1,
+      "effect": "Saignement (chance : 10%)",
+      "type": "épée à 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "La lame verte",
+      "req": 7,
+      "degat": "",
+      "pr": 0,
+      "se": 2,
+      "effect": "Saignement (chance : 20%)",
+      "type": "épée à 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "La lame verte",
+      "req": 5,
+      "degat": "",
+      "pr": 0,
+      "se": 3,
+      "effect": "Saignement (chance : 40%)",
+      "type": "épée à 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "La lame verte",
+      "req": 4,
+      "degat": "",
+      "pr": 0,
+      "se": 4,
+      "effect": "Saignement (chance : 45%)",
+      "type": "épée à 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "La lame verte",
+      "req": 3,
+      "degat": "",
+      "pr": 0,
+      "se": 5,
+      "effect": "Saignement (chance : 50%)",
+      "type": "épée à 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "La lame verte",
+      "req": 2,
+      "degat": "",
+      "pr": 0,
+      "se": 6,
+      "effect": "Saignement (chance : 55%)",
+      "type": "épée à 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Tranchant impérial",
+      "req": 8,
+      "degat": "",
+      "pr": 0,
+      "se": 1,
+      "effect": "Saignement (chance : 13%)",
+      "type": "épée à 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Tranchant impérial",
+      "req": 6,
+      "degat": "",
+      "pr": 0,
+      "se": 2,
+      "effect": "Saignement (chance : 25%)",
+      "type": "épée à 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Tranchant impérial",
+      "req": 4,
+      "degat": "",
+      "pr": 0,
+      "se": 3,
+      "effect": "Saignement (chance : 50%)",
+      "type": "épée à 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Tranchant impérial",
+      "req": 3,
+      "degat": "",
+      "pr": 0,
+      "se": 4,
+      "effect": "Saignement (chance : 55%)",
+      "type": "épée à 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Tranchant impérial",
+      "req": 2,
+      "degat": "",
+      "pr": 0,
+      "se": 5,
+      "effect": "Saignement (chance : 60%)",
+      "type": "épée à 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Tranchant impérial",
+      "req": 1,
+      "degat": "",
+      "pr": 0,
+      "se": 6,
+      "effect": "Saignement (chance : 65%)",
+      "type": "épée à 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée longue de base",
+      "req": 9,
+      "degat": "",
+      "pr": 0,
+      "se": 1,
+      "effect": "Saignement (chance : 4%)",
+      "type": "épée à 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée longue de base",
+      "req": 7,
+      "degat": "",
+      "pr": 0,
+      "se": 2,
+      "effect": "Saignement (chance : 8%)",
+      "type": "épée à 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée longue de base",
+      "req": 5,
+      "degat": "",
+      "pr": 0,
+      "se": 3,
+      "effect": "Saignement (chance : 15%)",
+      "type": "épée à 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée longue de base",
+      "req": 4,
+      "degat": "",
+      "pr": 0,
+      "se": 4,
+      "effect": "Saignement (chance : 20%)",
+      "type": "épée à 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée longue de base",
+      "req": 3,
+      "degat": "",
+      "pr": 0,
+      "se": 5,
+      "effect": "Saignement (chance : 25%)",
+      "type": "épée à 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée longue de base",
+      "req": 2,
+      "degat": "",
+      "pr": 0,
+      "se": 6,
+      "effect": "Saignement (chance : 30%)",
+      "type": "épée à 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée-roseau chasind",
+      "req": 9,
+      "degat": "",
+      "pr": 0,
+      "se": 1,
+      "effect": "Saignement (chance : 8%)",
+      "type": "épée à 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée-roseau chasind",
+      "req": 7,
+      "degat": "",
+      "pr": 0,
+      "se": 2,
+      "effect": "Saignement (chance : 15%)",
+      "type": "épée à 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée-roseau chasind",
+      "req": 5,
+      "degat": "",
+      "pr": 0,
+      "se": 3,
+      "effect": "Saignement (chance : 30%)",
+      "type": "épée à 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée-roseau chasind",
+      "req": 4,
+      "degat": "",
+      "pr": 0,
+      "se": 4,
+      "effect": "Saignement (chance : 35%)",
+      "type": "épée à 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée-roseau chasind",
+      "req": 3,
+      "degat": "",
+      "pr": 0,
+      "se": 5,
+      "effect": "Saignement (chance : 40%)",
+      "type": "épée à 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée-roseau chasind",
+      "req": 2,
+      "degat": "",
+      "pr": 0,
+      "se": 6,
+      "effect": "Saignement (chance : 45%)",
+      "type": "épée à 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée de l'essor",
+      "req": 9,
+      "degat": "",
+      "pr": 0,
+      "se": 1,
+      "effect": "Saignement (chance : 12%)",
+      "type": "épée à 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée de l'essor",
+      "req": 7,
+      "degat": "",
+      "pr": 0,
+      "se": 2,
+      "effect": "Saignement (chance : 23%)",
+      "type": "épée à 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée de l'essor",
+      "req": 5,
+      "degat": "",
+      "pr": 0,
+      "se": 3,
+      "effect": "Saignement (chance : 45%)",
+      "type": "épée à 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée de l'essor",
+      "req": 4,
+      "degat": "",
+      "pr": 0,
+      "se": 4,
+      "effect": "Saignement (chance : 50%)",
+      "type": "épée à 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée de l'essor",
+      "req": 3,
+      "degat": "",
+      "pr": 0,
+      "se": 5,
+      "effect": "Saignement (chance : 55%)",
+      "type": "épée à 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée de l'essor",
+      "req": 2,
+      "degat": "",
+      "pr": 0,
+      "se": 6,
+      "effect": "Saignement (chance : 60%)",
+      "type": "épée à 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée météore",
+      "req": 9,
+      "degat": "",
+      "pr": 0,
+      "se": 1,
+      "effect": "Saignement (chance : 15%)",
+      "type": "épée à 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée météore",
+      "req": 7,
+      "degat": "",
+      "pr": 0,
+      "se": 2,
+      "effect": "Saignement (chance : 30%)",
+      "type": "épée à 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée météore",
+      "req": 5,
+      "degat": "",
+      "pr": 0,
+      "se": 3,
+      "effect": "Saignement (chance : 60%)",
+      "type": "épée à 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée météore",
+      "req": 4,
+      "degat": "",
+      "pr": 0,
+      "se": 4,
+      "effect": "Saignement (chance : 65%)",
+      "type": "épée à 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée météore",
+      "req": 3,
+      "degat": "",
+      "pr": 0,
+      "se": 5,
+      "effect": "Saignement (chance : 70%)",
+      "type": "épée à 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée météore",
+      "req": 2,
+      "degat": "",
+      "pr": 0,
+      "se": 6,
+      "effect": "Saignement (chance : 75%)",
+      "type": "épée à 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée Auregole",
+      "req": 8,
+      "degat": "",
+      "pr": 0,
+      "se": 1,
+      "effect": "Saignement (chance : 19%)",
+      "type": "épée à 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée Auregole",
+      "req": 6,
+      "degat": "",
+      "pr": 0,
+      "se": 2,
+      "effect": "Saignement (chance : 38%)",
+      "type": "épée à 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée Auregole",
+      "req": 4,
+      "degat": "",
+      "pr": 0,
+      "se": 3,
+      "effect": "Saignement (chance : 75%)",
+      "type": "épée à 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée Auregole",
+      "req": 3,
+      "degat": "",
+      "pr": 0,
+      "se": 4,
+      "effect": "Saignement (chance : 80%)",
+      "type": "épée à 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée Auregole",
+      "req": 2,
+      "degat": "",
+      "pr": 0,
+      "se": 5,
+      "effect": "Saignement (chance : 85%)",
+      "type": "épée à 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Épée Auregole",
+      "req": 1,
+      "degat": "",
+      "pr": 0,
+      "se": 6,
+      "effect": "Saignement (chance : 90%)",
+      "type": "épée à 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Couperet de base",
+      "req": 9,
+      "degat": "",
+      "pr": 0,
+      "se": 1,
+      "effect": "Chance de critique (en attaquant) succès +0; échec +1",
+      "type": "hache a 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Couperet de base",
+      "req": 7,
+      "degat": "",
+      "pr": 0,
+      "se": 2,
+      "effect": "",
+      "type": "hache a 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Couperet de base",
+      "req": 5,
+      "degat": "",
+      "pr": 0,
+      "se": 3,
+      "effect": "Chance de critique (en attaquant) succès +0 ; échec +0",
+      "type": "hache a 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Couperet de base",
+      "req": 4,
+      "degat": "",
+      "pr": 0,
+      "se": 4,
+      "effect": "",
+      "type": "hache a 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Couperet de base",
+      "req": 3,
+      "degat": "",
+      "pr": 0,
+      "se": 5,
+      "effect": "",
+      "type": "hache a 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Couperet de base",
+      "req": 2,
+      "degat": "",
+      "pr": 0,
+      "se": 6,
+      "effect": "Chance de critique (en attaquant) succès +0 ; échec +0",
+      "type": "hache a 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Hache Dal'thanu",
+      "req": 9,
+      "degat": "",
+      "pr": 0,
+      "se": 1,
+      "effect": "Chance de critique (en attaquant) succès +0; échec +1",
+      "type": "hache a 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Hache Dal'thanu",
+      "req": 7,
+      "degat": "",
+      "pr": 0,
+      "se": 2,
+      "effect": "",
+      "type": "hache a 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Hache Dal'thanu",
+      "req": 5,
+      "degat": "",
+      "pr": 0,
+      "se": 3,
+      "effect": "",
+      "type": "hache a 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Hache Dal'thanu",
+      "req": 4,
+      "degat": "",
+      "pr": 0,
+      "se": 4,
+      "effect": "",
+      "type": "hache a 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Hache Dal'thanu",
+      "req": 3,
+      "degat": "",
+      "pr": 0,
+      "se": 5,
+      "effect": "",
+      "type": "hache a 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Hache Dal'thanu",
+      "req": 2,
+      "degat": "",
+      "pr": 0,
+      "se": 6,
+      "effect": "Chance de critique (en attaquant) succès +1 ; échec +1",
+      "type": "hache a 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Trait de sang",
+      "req": 9,
+      "degat": "",
+      "pr": 0,
+      "se": 1,
+      "effect": "",
+      "type": "hache a 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Trait de sang",
+      "req": 7,
+      "degat": "",
+      "pr": 0,
+      "se": 2,
+      "effect": "",
+      "type": "hache a 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Trait de sang",
+      "req": 5,
+      "degat": "",
+      "pr": 0,
+      "se": 3,
+      "effect": "Chance de critique (en attaquant) succès +1 ; échec +1",
+      "type": "hache a 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Trait de sang",
+      "req": 4,
+      "degat": "",
+      "pr": 0,
+      "se": 4,
+      "effect": "Chance de critique (en attaquant) succès +1 ; échec +1",
+      "type": "hache a 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Trait de sang",
+      "req": 3,
+      "degat": "",
+      "pr": 0,
+      "se": 5,
+      "effect": "Chance de critique (en attaquant) succès +1",
+      "type": "hache a 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Trait de sang",
+      "req": 2,
+      "degat": "",
+      "pr": 0,
+      "se": 6,
+      "effect": "Chance de critique (en attaquant) succès +2",
+      "type": "hache a 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Hache des ombres",
+      "req": 9,
+      "degat": "",
+      "pr": 0,
+      "se": 1,
+      "effect": "",
+      "type": "hache a 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Hache des ombres",
+      "req": 7,
+      "degat": "",
+      "pr": 0,
+      "se": 2,
+      "effect": "Chance de critique (en attaquant) succès +1; échec +1",
+      "type": "hache a 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Hache des ombres",
+      "req": 5,
+      "degat": "",
+      "pr": 0,
+      "se": 3,
+      "effect": "Chance de critique (en attaquant) succès +1 ; échec +1",
+      "type": "hache a 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Hache des ombres",
+      "req": 4,
+      "degat": "",
+      "pr": 0,
+      "se": 4,
+      "effect": "Chance de critique (en attaquant) succès +1 ; échec +1",
+      "type": "hache a 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Hache des ombres",
+      "req": 3,
+      "degat": "",
+      "pr": 0,
+      "se": 5,
+      "effect": "Chance de critique (en attaquant) succès +1; échec +1",
+      "type": "hache a 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Hache des ombres",
+      "req": 2,
+      "degat": "",
+      "pr": 0,
+      "se": 6,
+      "effect": "Chance de critique (en attaquant) succès +2",
+      "type": "hache a 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Veshialle",
+      "req": 8,
+      "degat": "",
+      "pr": 0,
+      "se": 1,
+      "effect": "",
+      "type": "hache a 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Veshialle",
+      "req": 6,
+      "degat": "",
+      "pr": 0,
+      "se": 2,
+      "effect": "Chance de critique (en attaquant) succès +1 ; échec +1",
+      "type": "hache a 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Veshialle",
+      "req": 4,
+      "degat": "",
+      "pr": 0,
+      "se": 3,
+      "effect": "Chance de critique (en attaquant) succès +2 ; échec +1",
+      "type": "hache a 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Veshialle",
+      "req": 3,
+      "degat": "",
+      "pr": 0,
+      "se": 4,
+      "effect": "Chance de critique (en attaquant) succès +2 ; échec +1",
+      "type": "hache a 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Veshialle",
+      "req": 2,
+      "degat": "",
+      "pr": 0,
+      "se": 5,
+      "effect": "Chance de critique (en attaquant) succès +2",
+      "type": "hache a 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Veshialle",
+      "req": 1,
+      "degat": "",
+      "pr": 0,
+      "se": 6,
+      "effect": "Chance de critique (en attaquant) succès +3",
+      "type": "hache a 1 main",
+      "class": "weapons"
+    },
+    {
+      "name": "Hache à deux mains de base",
+      "req": 9,
+      "degat": "",
+      "pr": 0,
+      "se": 1,
+      "effect": "",
+      "type": "hache a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Hache à deux mains de base",
+      "req": 7,
+      "degat": "",
+      "pr": 0,
+      "se": 2,
+      "effect": "",
+      "type": "hache a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Hache à deux mains de base",
+      "req": 5,
+      "degat": "",
+      "pr": 0,
+      "se": 3,
+      "effect": "",
+      "type": "hache a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Hache à deux mains de base",
+      "req": 4,
+      "degat": "",
+      "pr": 0,
+      "se": 4,
+      "effect": "",
+      "type": "hache a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Hache à deux mains de base",
+      "req": 3,
+      "degat": "",
+      "pr": 0,
+      "se": 5,
+      "effect": "",
+      "type": "hache a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Hache à deux mains de base",
+      "req": 2,
+      "degat": "",
+      "pr": 0,
+      "se": 6,
+      "effect": "Chance de critique (en attaquant) succès +1 ; échec +1",
+      "type": "hache a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Hache des Tal Vashoff",
+      "req": 9,
+      "degat": "",
+      "pr": 0,
+      "se": 1,
+      "effect": "",
+      "type": "hache a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Hache des Tal Vashoff",
+      "req": 7,
+      "degat": "",
+      "pr": 0,
+      "se": 2,
+      "effect": "",
+      "type": "hache a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Hache des Tal Vashoff",
+      "req": 5,
+      "degat": "",
+      "pr": 0,
+      "se": 3,
+      "effect": "Chance de critique (en attaquant) succès +1 ; échec +1",
+      "type": "hache a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Hache des Tal Vashoff",
+      "req": 4,
+      "degat": "",
+      "pr": 0,
+      "se": 4,
+      "effect": "Chance de critique (en attaquant) succès +1 ; échec +1",
+      "type": "hache a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Hache des Tal Vashoff",
+      "req": 3,
+      "degat": "",
+      "pr": 0,
+      "se": 5,
+      "effect": "Chance de critique (en attaquant) succès +1",
+      "type": "hache a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Hache des Tal Vashoff",
+      "req": 2,
+      "degat": "",
+      "pr": 0,
+      "se": 6,
+      "effect": "Chance de critique (en attaquant) succès +2",
+      "type": "hache a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Fil de Foy",
+      "req": 9,
+      "degat": "",
+      "pr": 0,
+      "se": 1,
+      "effect": "",
+      "type": "hache a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Fil de Foy",
+      "req": 7,
+      "degat": "",
+      "pr": 0,
+      "se": 2,
+      "effect": "",
+      "type": "hache a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Fil de Foy",
+      "req": 5,
+      "degat": "",
+      "pr": 0,
+      "se": 3,
+      "effect": "Chance de critique (en attaquant) succès +1 ; échec +1",
+      "type": "hache a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Fil de Foy",
+      "req": 4,
+      "degat": "",
+      "pr": 0,
+      "se": 4,
+      "effect": "Chance de critique (en attaquant) succès +1 ; échec +1",
+      "type": "hache a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Fil de Foy",
+      "req": 3,
+      "degat": "",
+      "pr": 0,
+      "se": 5,
+      "effect": "Chance de critique (en attaquant) succès +1",
+      "type": "hache a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Fil de Foy",
+      "req": 2,
+      "degat": "",
+      "pr": 0,
+      "se": 6,
+      "effect": "Chance de critique (en attaquant) succès +2",
+      "type": "hache a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Bec de griffon",
+      "req": 9,
+      "degat": "",
+      "pr": 0,
+      "se": 1,
+      "effect": "",
+      "type": "hache a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Bec de griffon",
+      "req": 7,
+      "degat": "",
+      "pr": 0,
+      "se": 2,
+      "effect": "Chance de critique (en attaquant) succès +1; échec +1",
+      "type": "hache a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Bec de griffon",
+      "req": 5,
+      "degat": "",
+      "pr": 0,
+      "se": 3,
+      "effect": "Chance de critique (en attaquant) succès +2 ; échec +1",
+      "type": "hache a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Bec de griffon",
+      "req": 4,
+      "degat": "",
+      "pr": 0,
+      "se": 4,
+      "effect": "Chance de critique (en attaquant) succès +2 ; échec +1",
+      "type": "hache a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Bec de griffon",
+      "req": 3,
+      "degat": "",
+      "pr": 0,
+      "se": 5,
+      "effect": "Chance de critique (en attaquant) succès +2",
+      "type": "hache a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Bec de griffon",
+      "req": 2,
+      "degat": "",
+      "pr": 0,
+      "se": 6,
+      "effect": "Chance de critique (en attaquant) succès +3",
+      "type": "hache a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Fendoir à os de dragon",
+      "req": 8,
+      "degat": "",
+      "pr": 0,
+      "se": 1,
+      "effect": "Chance de critique (en attaquant) succès +1; échec +1",
+      "type": "hache a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Fendoir à os de dragon",
+      "req": 6,
+      "degat": "",
+      "pr": 0,
+      "se": 2,
+      "effect": "Chance de critique (en attaquant) succès +2; échec +1",
+      "type": "hache a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Fendoir à os de dragon",
+      "req": 4,
+      "degat": "",
+      "pr": 0,
+      "se": 3,
+      "effect": "Chance de critique (en attaquant) succès +3 ; échec +1",
+      "type": "hache a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Fendoir à os de dragon",
+      "req": 3,
+      "degat": "",
+      "pr": 0,
+      "se": 4,
+      "effect": "Chance de critique (en attaquant) succès +3 ; échec +1",
+      "type": "hache a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Fendoir à os de dragon",
+      "req": 2,
+      "degat": "",
+      "pr": 0,
+      "se": 5,
+      "effect": "Chance de critique (en attaquant) succès +3",
+      "type": "hache a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Fendoir à os de dragon",
+      "req": 1,
+      "degat": "",
+      "pr": 0,
+      "se": 6,
+      "effect": "Chance de critique (en attaquant) succès +4",
+      "type": "hache a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Masse de base",
+      "req": 9,
+      "degat": "",
+      "pr": 0,
+      "se": 1,
+      "effect": "",
+      "type": "masse a une main",
+      "class": "weapons"
+    },
+    {
+      "name": "Masse de base",
+      "req": 7,
+      "degat": "",
+      "pr": 0,
+      "se": 2,
+      "effect": "",
+      "type": "masse a une main",
+      "class": "weapons"
+    },
+    {
+      "name": "Masse de base",
+      "req": 5,
+      "degat": "",
+      "pr": 0,
+      "se": 3,
+      "effect": "",
+      "type": "masse a une main",
+      "class": "weapons"
+    },
+    {
+      "name": "Masse de base",
+      "req": 4,
+      "degat": "",
+      "pr": 0,
+      "se": 4,
+      "effect": "Pénétration d'armure 1",
+      "type": "masse a une main",
+      "class": "weapons"
+    },
+    {
+      "name": "Masse de base",
+      "req": 3,
+      "degat": "",
+      "pr": 0,
+      "se": 5,
+      "effect": "Pénétration d'armure 2",
+      "type": "masse a une main",
+      "class": "weapons"
+    },
+    {
+      "name": "Masse de base",
+      "req": 2,
+      "degat": "",
+      "pr": 0,
+      "se": 6,
+      "effect": "Pénétration d'armure 4",
+      "type": "masse a une main",
+      "class": "weapons"
+    },
+    {
+      "name": "Masse d'arme d'Aeducan",
+      "req": 9,
+      "degat": "",
+      "pr": 0,
+      "se": 1,
+      "effect": "",
+      "type": "masse a une main",
+      "class": "weapons"
+    },
+    {
+      "name": "Masse d'arme d'Aeducan",
+      "req": 7,
+      "degat": "",
+      "pr": 0,
+      "se": 2,
+      "effect": "Pénétration d'armure 1",
+      "type": "masse a une main",
+      "class": "weapons"
+    },
+    {
+      "name": "Masse d'arme d'Aeducan",
+      "req": 5,
+      "degat": "",
+      "pr": 0,
+      "se": 3,
+      "effect": "Pénétration d'armure 2",
+      "type": "masse a une main",
+      "class": "weapons"
+    },
+    {
+      "name": "Masse d'arme d'Aeducan",
+      "req": 4,
+      "degat": "",
+      "pr": 0,
+      "se": 4,
+      "effect": "Pénétration d'armure 3",
+      "type": "masse a une main",
+      "class": "weapons"
+    },
+    {
+      "name": "Masse d'arme d'Aeducan",
+      "req": 3,
+      "degat": "",
+      "pr": 0,
+      "se": 5,
+      "effect": "Pénétration d'armure 4",
+      "type": "masse a une main",
+      "class": "weapons"
+    },
+    {
+      "name": "Masse d'arme d'Aeducan",
+      "req": 2,
+      "degat": "",
+      "pr": 0,
+      "se": 6,
+      "effect": "Pénétration d'armure 6",
+      "type": "masse a une main",
+      "class": "weapons"
+    },
+    {
+      "name": "Masse barbare",
+      "req": 9,
+      "degat": "",
+      "pr": 0,
+      "se": 1,
+      "effect": "Pénétration d'armure 1",
+      "type": "masse a une main",
+      "class": "weapons"
+    },
+    {
+      "name": "Masse barbare",
+      "req": 7,
+      "degat": "",
+      "pr": 0,
+      "se": 2,
+      "effect": "Pénétration d'armure 2",
+      "type": "masse a une main",
+      "class": "weapons"
+    },
+    {
+      "name": "Masse barbare",
+      "req": 5,
+      "degat": "",
+      "pr": 0,
+      "se": 3,
+      "effect": "Pénétration d'armure 4",
+      "type": "masse a une main",
+      "class": "weapons"
+    },
+    {
+      "name": "Masse barbare",
+      "req": 4,
+      "degat": "",
+      "pr": 0,
+      "se": 4,
+      "effect": "Pénétration d'armure 5",
+      "type": "masse a une main",
+      "class": "weapons"
+    },
+    {
+      "name": "Masse barbare",
+      "req": 3,
+      "degat": "",
+      "pr": 0,
+      "se": 5,
+      "effect": "Pénétration d'armure 6",
+      "type": "masse a une main",
+      "class": "weapons"
+    },
+    {
+      "name": "Masse barbare",
+      "req": 2,
+      "degat": "",
+      "pr": 0,
+      "se": 6,
+      "effect": "Pénétration d'armure 8",
+      "type": "masse a une main",
+      "class": "weapons"
+    },
+    {
+      "name": "Masse d'arme de libérateur",
+      "req": 9,
+      "degat": "",
+      "pr": 0,
+      "se": 1,
+      "effect": "Pénétration d'armure 2",
+      "type": "masse a une main",
+      "class": "weapons"
+    },
+    {
+      "name": "Masse d'arme de libérateur",
+      "req": 7,
+      "degat": "",
+      "pr": 0,
+      "se": 2,
+      "effect": "Pénétration d'armure 3",
+      "type": "masse a une main",
+      "class": "weapons"
+    },
+    {
+      "name": "Masse d'arme de libérateur",
+      "req": 5,
+      "degat": "",
+      "pr": 0,
+      "se": 3,
+      "effect": "Pénétration d'armure 6",
+      "type": "masse a une main",
+      "class": "weapons"
+    },
+    {
+      "name": "Masse d'arme de libérateur",
+      "req": 4,
+      "degat": "",
+      "pr": 0,
+      "se": 4,
+      "effect": "Pénétration d'armure 7",
+      "type": "masse a une main",
+      "class": "weapons"
+    },
+    {
+      "name": "Masse d'arme de libérateur",
+      "req": 3,
+      "degat": "",
+      "pr": 0,
+      "se": 5,
+      "effect": "Pénétration d'armure 8",
+      "type": "masse a une main",
+      "class": "weapons"
+    },
+    {
+      "name": "Masse d'arme de libérateur",
+      "req": 2,
+      "degat": "",
+      "pr": 0,
+      "se": 6,
+      "effect": "Pénétration d'armure 10",
+      "type": "masse a une main",
+      "class": "weapons"
+    },
+    {
+      "name": "Angarde",
+      "req": 8,
+      "degat": "",
+      "pr": 0,
+      "se": 1,
+      "effect": "Pénétration d'armure 2",
+      "type": "masse a une main",
+      "class": "weapons"
+    },
+    {
+      "name": "Angarde",
+      "req": 6,
+      "degat": "",
+      "pr": 0,
+      "se": 2,
+      "effect": "Pénétration d'armure 4",
+      "type": "masse a une main",
+      "class": "weapons"
+    },
+    {
+      "name": "Angarde",
+      "req": 4,
+      "degat": "",
+      "pr": 0,
+      "se": 3,
+      "effect": "Pénétration d'armure 8",
+      "type": "masse a une main",
+      "class": "weapons"
+    },
+    {
+      "name": "Angarde",
+      "req": 3,
+      "degat": "",
+      "pr": 0,
+      "se": 4,
+      "effect": "Pénétration d'armure 9",
+      "type": "masse a une main",
+      "class": "weapons"
+    },
+    {
+      "name": "Angarde",
+      "req": 2,
+      "degat": "",
+      "pr": 0,
+      "se": 5,
+      "effect": "Pénétration d'armure 10",
+      "type": "masse a une main",
+      "class": "weapons"
+    },
+    {
+      "name": "Angarde",
+      "req": 1,
+      "degat": "",
+      "pr": 0,
+      "se": 6,
+      "effect": "Pénétration d'armure 12",
+      "type": "masse a une main",
+      "class": "weapons"
+    },
+    {
+      "name": "Marteau de base",
+      "req": 9,
+      "degat": "",
+      "pr": 0,
+      "se": 1,
+      "effect": "",
+      "type": "masse a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Marteau de base",
+      "req": 7,
+      "degat": "",
+      "pr": 0,
+      "se": 2,
+      "effect": "",
+      "type": "masse a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Marteau de base",
+      "req": 5,
+      "degat": "",
+      "pr": 0,
+      "se": 3,
+      "effect": "Pénétration d'armure 1",
+      "type": "masse a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Marteau de base",
+      "req": 4,
+      "degat": "",
+      "pr": 0,
+      "se": 4,
+      "effect": "Pénétration d'armure 2",
+      "type": "masse a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Marteau de base",
+      "req": 3,
+      "degat": "",
+      "pr": 0,
+      "se": 5,
+      "effect": "Pénétration d'armure 3",
+      "type": "masse a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Marteau de base",
+      "req": 2,
+      "degat": "",
+      "pr": 0,
+      "se": 6,
+      "effect": "Pénétration d'armure 5",
+      "type": "masse a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Broyeur chasind",
+      "req": 9,
+      "degat": "",
+      "pr": 0,
+      "se": 1,
+      "effect": "Pénétration d'armure 1",
+      "type": "masse a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Broyeur chasind",
+      "req": 7,
+      "degat": "",
+      "pr": 0,
+      "se": 2,
+      "effect": "Pénétration d'armure 2",
+      "type": "masse a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Broyeur chasind",
+      "req": 5,
+      "degat": "",
+      "pr": 0,
+      "se": 3,
+      "effect": "Pénétration d'armure 4",
+      "type": "masse a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Broyeur chasind",
+      "req": 4,
+      "degat": "",
+      "pr": 0,
+      "se": 4,
+      "effect": "Pénétration d'armure 5",
+      "type": "masse a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Broyeur chasind",
+      "req": 3,
+      "degat": "",
+      "pr": 0,
+      "se": 5,
+      "effect": "Pénétration d'armure 6",
+      "type": "masse a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Broyeur chasind",
+      "req": 2,
+      "degat": "",
+      "pr": 0,
+      "se": 6,
+      "effect": "Pénétration d'armure 8",
+      "type": "masse a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Marteau du maître forgeron",
+      "req": 9,
+      "degat": "",
+      "pr": 0,
+      "se": 1,
+      "effect": "Pénétration d'armure 2",
+      "type": "masse a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Marteau du maître forgeron",
+      "req": 7,
+      "degat": "",
+      "pr": 0,
+      "se": 2,
+      "effect": "Pénétration d'armure 4",
+      "type": "masse a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Marteau du maître forgeron",
+      "req": 5,
+      "degat": "",
+      "pr": 0,
+      "se": 3,
+      "effect": "Pénétration d'armure 7",
+      "type": "masse a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Marteau du maître forgeron",
+      "req": 4,
+      "degat": "",
+      "pr": 0,
+      "se": 4,
+      "effect": "Pénétration d'armure 8",
+      "type": "masse a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Marteau du maître forgeron",
+      "req": 3,
+      "degat": "",
+      "pr": 0,
+      "se": 5,
+      "effect": "Pénétration d'armure 9",
+      "type": "masse a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Marteau du maître forgeron",
+      "req": 2,
+      "degat": "",
+      "pr": 0,
+      "se": 6,
+      "effect": "Pénétration d'armure 11",
+      "type": "masse a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Maillet des exaltés",
+      "req": 9,
+      "degat": "",
+      "pr": 0,
+      "se": 1,
+      "effect": "Pénétration d'armure 3",
+      "type": "masse a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Maillet des exaltés",
+      "req": 7,
+      "degat": "",
+      "pr": 0,
+      "se": 2,
+      "effect": "Pénétration d'armure 5",
+      "type": "masse a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Maillet des exaltés",
+      "req": 5,
+      "degat": "",
+      "pr": 0,
+      "se": 3,
+      "effect": "Pénétration d'armure 10",
+      "type": "masse a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Maillet des exaltés",
+      "req": 4,
+      "degat": "",
+      "pr": 0,
+      "se": 4,
+      "effect": "Pénétration d'armure 11",
+      "type": "masse a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Maillet des exaltés",
+      "req": 3,
+      "degat": "",
+      "pr": 0,
+      "se": 5,
+      "effect": "Pénétration d'armure 12",
+      "type": "masse a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Maillet des exaltés",
+      "req": 2,
+      "degat": "",
+      "pr": 0,
+      "se": 6,
+      "effect": "Pénétration d'armure 14",
+      "type": "masse a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Fortune de Thorval",
+      "req": 8,
+      "degat": "",
+      "pr": 0,
+      "se": 1,
+      "effect": "Pénétration d'armure 4",
+      "type": "masse a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Fortune de Thorval",
+      "req": 6,
+      "degat": "",
+      "pr": 0,
+      "se": 2,
+      "effect": "Pénétration d'armure 7",
+      "type": "masse a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Fortune de Thorval",
+      "req": 4,
+      "degat": "",
+      "pr": 0,
+      "se": 3,
+      "effect": "Pénétration d'armure 13",
+      "type": "masse a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Fortune de Thorval",
+      "req": 3,
+      "degat": "",
+      "pr": 0,
+      "se": 4,
+      "effect": "Pénétration d'armure 14",
+      "type": "masse a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Fortune de Thorval",
+      "req": 2,
+      "degat": "",
+      "pr": 0,
+      "se": 5,
+      "effect": "Pénétration d'armure 15",
+      "type": "masse a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Fortune de Thorval",
+      "req": 1,
+      "degat": "",
+      "pr": 0,
+      "se": 6,
+      "effect": "Pénétration d'armure 17",
+      "type": "masse a 2 mains",
+      "class": "weapons"
+    },
+    {
+      "name": "Bâton d'acolyte",
+      "req": 9,
+      "degat": "",
+      "pr": 0,
+      "se": 1,
+      "effect": "END +1",
+      "type": "bâton",
+      "class": "weapons"
+    },
+    {
+      "name": "Bâton d'acolyte",
+      "req": 7,
+      "degat": "",
+      "pr": 0,
+      "se": 2,
+      "effect": "END +2",
+      "type": "bâton",
+      "class": "weapons"
+    },
+    {
+      "name": "Bâton d'acolyte",
+      "req": 5,
+      "degat": "",
+      "pr": 0,
+      "se": 3,
+      "effect": "END +4",
+      "type": "bâton",
+      "class": "weapons"
+    },
+    {
+      "name": "Bâton d'acolyte",
+      "req": 4,
+      "degat": "",
+      "pr": 0,
+      "se": 4,
+      "effect": "END +6",
+      "type": "bâton",
+      "class": "weapons"
+    },
+    {
+      "name": "Bâton d'acolyte",
+      "req": 3,
+      "degat": "",
+      "pr": 0,
+      "se": 5,
+      "effect": "END +8",
+      "type": "bâton",
+      "class": "weapons"
+    },
+    {
+      "name": "Bâton d'acolyte",
+      "req": 2,
+      "degat": "",
+      "pr": 0,
+      "se": 6,
+      "effect": "END +10",
+      "type": "bâton",
+      "class": "weapons"
+    },
+    {
+      "name": "Bâton de Valeur",
+      "req": 9,
+      "degat": "",
+      "pr": 0,
+      "se": 1,
+      "effect": "END +2",
+      "type": "bâton",
+      "class": "weapons"
+    },
+    {
+      "name": "Bâton de Valeur",
+      "req": 7,
+      "degat": "",
+      "pr": 0,
+      "se": 2,
+      "effect": "END +4",
+      "type": "bâton",
+      "class": "weapons"
+    },
+    {
+      "name": "Bâton de Valeur",
+      "req": 5,
+      "degat": "",
+      "pr": 0,
+      "se": 3,
+      "effect": "END +8",
+      "type": "bâton",
+      "class": "weapons"
+    },
+    {
+      "name": "Bâton de Valeur",
+      "req": 4,
+      "degat": "",
+      "pr": 0,
+      "se": 4,
+      "effect": "END +10",
+      "type": "bâton",
+      "class": "weapons"
+    },
+    {
+      "name": "Bâton de Valeur",
+      "req": 3,
+      "degat": "",
+      "pr": 0,
+      "se": 5,
+      "effect": "END +12",
+      "type": "bâton",
+      "class": "weapons"
+    },
+    {
+      "name": "Bâton de Valeur",
+      "req": 2,
+      "degat": "",
+      "pr": 0,
+      "se": 6,
+      "effect": "END +14",
+      "type": "bâton",
+      "class": "weapons"
+    },
+    {
+      "name": "Bâton d'enchanteur",
+      "req": 9,
+      "degat": "",
+      "pr": 0,
+      "se": 1,
+      "effect": "END +3",
+      "type": "bâton",
+      "class": "weapons"
+    },
+    {
+      "name": "Bâton d'enchanteur",
+      "req": 7,
+      "degat": "",
+      "pr": 0,
+      "se": 2,
+      "effect": "END +6",
+      "type": "bâton",
+      "class": "weapons"
+    },
+    {
+      "name": "Bâton d'enchanteur",
+      "req": 5,
+      "degat": "",
+      "pr": 0,
+      "se": 3,
+      "effect": "END +12",
+      "type": "bâton",
+      "class": "weapons"
+    },
+    {
+      "name": "Bâton d'enchanteur",
+      "req": 4,
+      "degat": "",
+      "pr": 0,
+      "se": 4,
+      "effect": "END +14",
+      "type": "bâton",
+      "class": "weapons"
+    },
+    {
+      "name": "Bâton d'enchanteur",
+      "req": 3,
+      "degat": "",
+      "pr": 0,
+      "se": 5,
+      "effect": "END +16",
+      "type": "bâton",
+      "class": "weapons"
+    },
+    {
+      "name": "Bâton d'enchanteur",
+      "req": 2,
+      "degat": "",
+      "pr": 0,
+      "se": 6,
+      "effect": "END +18",
+      "type": "bâton",
+      "class": "weapons"
+    },
+    {
+      "name": "Torche des quatre temps",
+      "req": 9,
+      "degat": "",
+      "pr": 0,
+      "se": 1,
+      "effect": "END +4",
+      "type": "bâton",
+      "class": "weapons"
+    },
+    {
+      "name": "Torche des quatre temps",
+      "req": 7,
+      "degat": "",
+      "pr": 0,
+      "se": 2,
+      "effect": "END +8",
+      "type": "bâton",
+      "class": "weapons"
+    },
+    {
+      "name": "Torche des quatre temps",
+      "req": 5,
+      "degat": "",
+      "pr": 0,
+      "se": 3,
+      "effect": "END +16",
+      "type": "bâton",
+      "class": "weapons"
+    },
+    {
+      "name": "Torche des quatre temps",
+      "req": 4,
+      "degat": "",
+      "pr": 0,
+      "se": 4,
+      "effect": "END +18",
+      "type": "bâton",
+      "class": "weapons"
+    },
+    {
+      "name": "Torche des quatre temps",
+      "req": 3,
+      "degat": "",
+      "pr": 0,
+      "se": 5,
+      "effect": "END +20",
+      "type": "bâton",
+      "class": "weapons"
+    },
+    {
+      "name": "Torche des quatre temps",
+      "req": 2,
+      "degat": "",
+      "pr": 0,
+      "se": 6,
+      "effect": "END +22",
+      "type": "bâton",
+      "class": "weapons"
+    },
+    {
+      "name": "Bâton du courroux céleste",
+      "req": 8,
+      "degat": "",
+      "pr": 0,
+      "se": 1,
+      "effect": "END +5",
+      "type": "bâton",
+      "class": "weapons"
+    },
+    {
+      "name": "Bâton du courroux céleste",
+      "req": 6,
+      "degat": "",
+      "pr": 0,
+      "se": 2,
+      "effect": "END +10",
+      "type": "bâton",
+      "class": "weapons"
+    },
+    {
+      "name": "Bâton du courroux céleste",
+      "req": 4,
+      "degat": "",
+      "pr": 0,
+      "se": 3,
+      "effect": "END +20",
+      "type": "bâton",
+      "class": "weapons"
+    },
+    {
+      "name": "Bâton du courroux céleste",
+      "req": 3,
+      "degat": "",
+      "pr": 0,
+      "se": 4,
+      "effect": "END +22",
+      "type": "bâton",
+      "class": "weapons"
+    },
+    {
+      "name": "Bâton du courroux céleste",
+      "req": 2,
+      "degat": "",
+      "pr": 0,
+      "se": 5,
+      "effect": "END +24",
+      "type": "bâton",
+      "class": "weapons"
+    },
+    {
+      "name": "Bâton du courroux céleste",
+      "req": 1,
+      "degat": "",
+      "pr": 0,
+      "se": 6,
+      "effect": "END +26",
+      "type": "bâton",
+      "class": "weapons"
+    },
+    {
+      "name": "Casque de cuir de base",
+      "req": 5,
+      "degat": "0",
+      "pr": 0,
+      "se": 1,
+      "effect": "",
+      "type": "Casque",
+      "class": "armor"
+    },
+    {
+      "name": "Casque de cuir de base",
+      "req": 3,
+      "degat": "0",
+      "pr": 0,
+      "se": 2,
+      "effect": "",
+      "type": "Casque",
+      "class": "armor"
+    },
+    {
+      "name": "Casque de cuir de base",
+      "req": 1,
+      "degat": "0",
+      "pr": 1,
+      "se": 3,
+      "effect": "",
+      "type": "Casque",
+      "class": "armor"
+    },
+    {
+      "name": "Casque de cuir de base",
+      "req": 0,
+      "degat": "0",
+      "pr": 1,
+      "se": 4,
+      "effect": "",
+      "type": "Casque",
+      "class": "armor"
+    },
+    {
+      "name": "Casque de cuir de base",
+      "req": 0,
+      "degat": "0",
+      "pr": 2,
+      "se": 5,
+      "effect": "",
+      "type": "Casque",
+      "class": "armor"
+    },
+    {
+      "name": "Casque de cuir de base",
+      "req": 0,
+      "degat": "0",
+      "pr": 3,
+      "se": 6,
+      "effect": "",
+      "type": "Casque",
+      "class": "armor"
+    },
+    {
+      "name": "Casque d'éclaireur",
+      "req": 5,
+      "degat": "0",
+      "pr": 0,
+      "se": 1,
+      "effect": "",
+      "type": "Casque",
+      "class": "armor"
+    },
+    {
+      "name": "Casque d'éclaireur",
+      "req": 3,
+      "degat": "0",
+      "pr": 0,
+      "se": 2,
+      "effect": "",
+      "type": "Casque",
+      "class": "armor"
+    },
+    {
+      "name": "Casque d'éclaireur",
+      "req": 1,
+      "degat": "0",
+      "pr": 1,
+      "se": 3,
+      "effect": "",
+      "type": "Casque",
+      "class": "armor"
+    },
+    {
+      "name": "Casque d'éclaireur",
+      "req": 0,
+      "degat": "0",
+      "pr": 1,
+      "se": 4,
+      "effect": "",
+      "type": "Casque",
+      "class": "armor"
+    },
+    {
+      "name": "Casque d'éclaireur",
+      "req": 0,
+      "degat": "0",
+      "pr": 2,
+      "se": 5,
+      "effect": "",
+      "type": "Casque",
+      "class": "armor"
+    },
+    {
+      "name": "Casque d'éclaireur",
+      "req": 0,
+      "degat": "0",
+      "pr": 3,
+      "se": 6,
+      "effect": "",
+      "type": "Casque",
+      "class": "armor"
+    },
+    {
+      "name": "Casque Qunari rembourré",
+      "req": 6,
+      "degat": "0",
+      "pr": 0,
+      "se": 1,
+      "effect": "",
+      "type": "Casque",
+      "class": "armor"
+    },
+    {
+      "name": "Casque Qunari rembourré",
+      "req": 4,
+      "degat": "0",
+      "pr": 1,
+      "se": 2,
+      "effect": "",
+      "type": "Casque",
+      "class": "armor"
+    },
+    {
+      "name": "Casque Qunari rembourré",
+      "req": 2,
+      "degat": "0",
+      "pr": 2,
+      "se": 3,
+      "effect": "",
+      "type": "Casque",
+      "class": "armor"
+    },
+    {
+      "name": "Casque Qunari rembourré",
+      "req": 1,
+      "degat": "0",
+      "pr": 2,
+      "se": 4,
+      "effect": "",
+      "type": "Casque",
+      "class": "armor"
+    },
+    {
+      "name": "Casque Qunari rembourré",
+      "req": 1,
+      "degat": "0",
+      "pr": 3,
+      "se": 5,
+      "effect": "",
+      "type": "Casque",
+      "class": "armor"
+    },
+    {
+      "name": "Casque Qunari rembourré",
+      "req": 0,
+      "degat": "0",
+      "pr": 4,
+      "se": 6,
+      "effect": "",
+      "type": "Casque",
+      "class": "armor"
+    },
+    {
+      "name": "Casque constricteur",
+      "req": 7,
+      "degat": "0",
+      "pr": 0,
+      "se": 1,
+      "effect": "Les échecs critiques ont 5% de chance d'être sans effet.",
+      "type": "Casque",
+      "class": "armor"
+    },
+    {
+      "name": "Casque constricteur",
+      "req": 5,
+      "degat": "0",
+      "pr": 1,
+      "se": 2,
+      "effect": "Les échecs critiques ont 15% de chance d'être sans effet.",
+      "type": "Casque",
+      "class": "armor"
+    },
+    {
+      "name": "Casque constricteur",
+      "req": 3,
+      "degat": "0",
+      "pr": 2,
+      "se": 3,
+      "effect": "Les échecs critiques ont 25% de chance d'être sans effet.",
+      "type": "Casque",
+      "class": "armor"
+    },
+    {
+      "name": "Casque constricteur",
+      "req": 2,
+      "degat": "0",
+      "pr": 2,
+      "se": 4,
+      "effect": "Les échecs critiques ont 30% de chance d'être sans effet.",
+      "type": "Casque",
+      "class": "armor"
+    },
+    {
+      "name": "Casque constricteur",
+      "req": 2,
+      "degat": "0",
+      "pr": 3,
+      "se": 5,
+      "effect": "Les échecs critiques ont 35% de chance d'être sans effet.",
+      "type": "Casque",
+      "class": "armor"
+    },
+    {
+      "name": "Casque constricteur",
+      "req": 1,
+      "degat": "0",
+      "pr": 4,
+      "se": 6,
+      "effect": "Les échecs critiques ont 45% de chance d'être sans effet.",
+      "type": "Casque",
+      "class": "armor"
+    },
+    {
+      "name": "Bon Égard",
+      "req": 8,
+      "degat": "0",
+      "pr": 0,
+      "se": 1,
+      "effect": "Les échecs critiques ont 30% de chance d'être sans effet.",
+      "type": "Casque",
+      "class": "armor"
+    },
+    {
+      "name": "Bon Égard",
+      "req": 6,
+      "degat": "0",
+      "pr": 2,
+      "se": 2,
+      "effect": "Les échecs critiques ont 40% de chance d'être sans effet.",
+      "type": "Casque",
+      "class": "armor"
+    },
+    {
+      "name": "Bon Égard",
+      "req": 4,
+      "degat": "0",
+      "pr": 3,
+      "se": 3,
+      "effect": "Les échecs critiques ont 50% de chance d'être sans effet.",
+      "type": "Casque",
+      "class": "armor"
+    },
+    {
+      "name": "Bon Égard",
+      "req": 3,
+      "degat": "0",
+      "pr": 3,
+      "se": 4,
+      "effect": "Les échecs critiques ont 55% de chance d'être sans effet.",
+      "type": "Casque",
+      "class": "armor"
+    },
+    {
+      "name": "Bon Égard",
+      "req": 3,
+      "degat": "0",
+      "pr": 4,
+      "se": 5,
+      "effect": "Les échecs critiques ont 60% de chance d'être sans effet.",
+      "type": "Casque",
+      "class": "armor"
+    },
+    {
+      "name": "Bon Égard",
+      "req": 2,
+      "degat": "0",
+      "pr": 5,
+      "se": 6,
+      "effect": "Les échecs critiques ont 70% de chance d'être sans effet.",
+      "type": "Casque",
+      "class": "armor"
+    },
+    {
+      "name": "Plastron de cuir de base",
+      "req": 6,
+      "degat": "0",
+      "pr": 0,
+      "se": 1,
+      "effect": "",
+      "type": "armure de cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Plastron de cuir de base",
+      "req": 4,
+      "degat": "0",
+      "pr": 1,
+      "se": 2,
+      "effect": "",
+      "type": "armure de cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Plastron de cuir de base",
+      "req": 2,
+      "degat": "0",
+      "pr": 2,
+      "se": 3,
+      "effect": "",
+      "type": "armure de cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Plastron de cuir de base",
+      "req": 1,
+      "degat": "0",
+      "pr": 2,
+      "se": 4,
+      "effect": "",
+      "type": "armure de cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Plastron de cuir de base",
+      "req": 1,
+      "degat": "0",
+      "pr": 3,
+      "se": 5,
+      "effect": "",
+      "type": "armure de cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Plastron de cuir de base",
+      "req": 0,
+      "degat": "0",
+      "pr": 4,
+      "se": 6,
+      "effect": "",
+      "type": "armure de cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Plastron dalatien",
+      "req": 7,
+      "degat": "0",
+      "pr": 0,
+      "se": 1,
+      "effect": "",
+      "type": "armure de cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Plastron dalatien",
+      "req": 5,
+      "degat": "0",
+      "pr": 2,
+      "se": 2,
+      "effect": "",
+      "type": "armure de cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Plastron dalatien",
+      "req": 3,
+      "degat": "0",
+      "pr": 3,
+      "se": 3,
+      "effect": "",
+      "type": "armure de cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Plastron dalatien",
+      "req": 2,
+      "degat": "0",
+      "pr": 3,
+      "se": 4,
+      "effect": "",
+      "type": "armure de cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Plastron dalatien",
+      "req": 2,
+      "degat": "0",
+      "pr": 4,
+      "se": 5,
+      "effect": "",
+      "type": "armure de cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Plastron dalatien",
+      "req": 1,
+      "degat": "0",
+      "pr": 5,
+      "se": 6,
+      "effect": "",
+      "type": "armure de cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Plastron en cuir de drake",
+      "req": 8,
+      "degat": "0",
+      "pr": 1,
+      "se": 1,
+      "effect": "",
+      "type": "armure de cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Plastron en cuir de drake",
+      "req": 6,
+      "degat": "0",
+      "pr": 3,
+      "se": 2,
+      "effect": "",
+      "type": "armure de cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Plastron en cuir de drake",
+      "req": 4,
+      "degat": "0",
+      "pr": 4,
+      "se": 3,
+      "effect": "",
+      "type": "armure de cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Plastron en cuir de drake",
+      "req": 3,
+      "degat": "0",
+      "pr": 4,
+      "se": 4,
+      "effect": "",
+      "type": "armure de cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Plastron en cuir de drake",
+      "req": 3,
+      "degat": "0",
+      "pr": 5,
+      "se": 5,
+      "effect": "",
+      "type": "armure de cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Plastron en cuir de drake",
+      "req": 2,
+      "degat": "0",
+      "pr": 6,
+      "se": 6,
+      "effect": "",
+      "type": "armure de cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Armure de Varathorn",
+      "req": 9,
+      "degat": "0",
+      "pr": 1,
+      "se": 1,
+      "effect": "PV max +2",
+      "type": "armure de cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Armure de Varathorn",
+      "req": 7,
+      "degat": "0",
+      "pr": 3,
+      "se": 2,
+      "effect": "PV max +3",
+      "type": "armure de cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Armure de Varathorn",
+      "req": 5,
+      "degat": "0",
+      "pr": 4,
+      "se": 3,
+      "effect": "PV max +5",
+      "type": "armure de cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Armure de Varathorn",
+      "req": 4,
+      "degat": "0",
+      "pr": 4,
+      "se": 4,
+      "effect": "PV max +6",
+      "type": "armure de cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Armure de Varathorn",
+      "req": 4,
+      "degat": "0",
+      "pr": 5,
+      "se": 5,
+      "effect": "PV max +7",
+      "type": "armure de cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Armure de Varathorn",
+      "req": 3,
+      "degat": "0",
+      "pr": 6,
+      "se": 6,
+      "effect": "PV max +9",
+      "type": "armure de cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Ombre impériale",
+      "req": 10,
+      "degat": "0",
+      "pr": 2,
+      "se": 1,
+      "effect": "PV max +3",
+      "type": "armure de cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Ombre impériale",
+      "req": 8,
+      "degat": "0",
+      "pr": 4,
+      "se": 2,
+      "effect": "PV max +5",
+      "type": "armure de cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Ombre impériale",
+      "req": 6,
+      "degat": "0",
+      "pr": 5,
+      "se": 3,
+      "effect": "PV max +10",
+      "type": "armure de cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Ombre impériale",
+      "req": 5,
+      "degat": "0",
+      "pr": 5,
+      "se": 4,
+      "effect": "PV max +11",
+      "type": "armure de cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Ombre impériale",
+      "req": 5,
+      "degat": "0",
+      "pr": 6,
+      "se": 5,
+      "effect": "PV max +12",
+      "type": "armure de cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Ombre impériale",
+      "req": 4,
+      "degat": "0",
+      "pr": 7,
+      "se": 6,
+      "effect": "PV max +14",
+      "type": "armure de cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Cotte de mailles",
+      "req": 8,
+      "degat": "0",
+      "pr": 0,
+      "se": 1,
+      "effect": "",
+      "type": "armure de métal",
+      "class": "armor"
+    },
+    {
+      "name": "Cotte de mailles",
+      "req": 6,
+      "degat": "0",
+      "pr": 2,
+      "se": 2,
+      "effect": "",
+      "type": "armure de métal",
+      "class": "armor"
+    },
+    {
+      "name": "Cotte de mailles",
+      "req": 4,
+      "degat": "0",
+      "pr": 3,
+      "se": 3,
+      "effect": "",
+      "type": "armure de métal",
+      "class": "armor"
+    },
+    {
+      "name": "Cotte de mailles",
+      "req": 3,
+      "degat": "0",
+      "pr": 3,
+      "se": 4,
+      "effect": "",
+      "type": "armure de métal",
+      "class": "armor"
+    },
+    {
+      "name": "Cotte de mailles",
+      "req": 3,
+      "degat": "0",
+      "pr": 4,
+      "se": 5,
+      "effect": "",
+      "type": "armure de métal",
+      "class": "armor"
+    },
+    {
+      "name": "Cotte de mailles",
+      "req": 2,
+      "degat": "0",
+      "pr": 5,
+      "se": 6,
+      "effect": "",
+      "type": "armure de métal",
+      "class": "armor"
+    },
+    {
+      "name": "Plastron d'Evon le Grand",
+      "req": 9,
+      "degat": "0",
+      "pr": 1,
+      "se": 1,
+      "effect": "",
+      "type": "armure de métal",
+      "class": "armor"
+    },
+    {
+      "name": "Plastron d'Evon le Grand",
+      "req": 7,
+      "degat": "0",
+      "pr": 3,
+      "se": 2,
+      "effect": "",
+      "type": "armure de métal",
+      "class": "armor"
+    },
+    {
+      "name": "Plastron d'Evon le Grand",
+      "req": 5,
+      "degat": "0",
+      "pr": 4,
+      "se": 3,
+      "effect": "",
+      "type": "armure de métal",
+      "class": "armor"
+    },
+    {
+      "name": "Plastron d'Evon le Grand",
+      "req": 4,
+      "degat": "0",
+      "pr": 4,
+      "se": 4,
+      "effect": "",
+      "type": "armure de métal",
+      "class": "armor"
+    },
+    {
+      "name": "Plastron d'Evon le Grand",
+      "req": 4,
+      "degat": "0",
+      "pr": 5,
+      "se": 5,
+      "effect": "",
+      "type": "armure de métal",
+      "class": "armor"
+    },
+    {
+      "name": "Plastron d'Evon le Grand",
+      "req": 3,
+      "degat": "0",
+      "pr": 6,
+      "se": 6,
+      "effect": "",
+      "type": "armure de métal",
+      "class": "armor"
+    },
+    {
+      "name": "Plastron de la légion des morts",
+      "req": 10,
+      "degat": "0",
+      "pr": 2,
+      "se": 1,
+      "effect": "",
+      "type": "armure de métal",
+      "class": "armor"
+    },
+    {
+      "name": "Plastron de la légion des morts",
+      "req": 8,
+      "degat": "0",
+      "pr": 4,
+      "se": 2,
+      "effect": "",
+      "type": "armure de métal",
+      "class": "armor"
+    },
+    {
+      "name": "Plastron de la légion des morts",
+      "req": 6,
+      "degat": "0",
+      "pr": 5,
+      "se": 3,
+      "effect": "",
+      "type": "armure de métal",
+      "class": "armor"
+    },
+    {
+      "name": "Plastron de la légion des morts",
+      "req": 5,
+      "degat": "0",
+      "pr": 5,
+      "se": 4,
+      "effect": "",
+      "type": "armure de métal",
+      "class": "armor"
+    },
+    {
+      "name": "Plastron de la légion des morts",
+      "req": 5,
+      "degat": "0",
+      "pr": 6,
+      "se": 5,
+      "effect": "",
+      "type": "armure de métal",
+      "class": "armor"
+    },
+    {
+      "name": "Plastron de la légion des morts",
+      "req": 4,
+      "degat": "0",
+      "pr": 7,
+      "se": 6,
+      "effect": "",
+      "type": "armure de métal",
+      "class": "armor"
+    },
+    {
+      "name": "Armure du commandeur",
+      "req": 11,
+      "degat": "0",
+      "pr": 2,
+      "se": 1,
+      "effect": "PV max +5",
+      "type": "armure de métal",
+      "class": "armor"
+    },
+    {
+      "name": "Armure du commandeur",
+      "req": 9,
+      "degat": "0",
+      "pr": 4,
+      "se": 2,
+      "effect": "PV max +5",
+      "type": "armure de métal",
+      "class": "armor"
+    },
+    {
+      "name": "Armure du commandeur",
+      "req": 8,
+      "degat": "0",
+      "pr": 5,
+      "se": 3,
+      "effect": "PV max +10",
+      "type": "armure de métal",
+      "class": "armor"
+    },
+    {
+      "name": "Armure du commandeur",
+      "req": 7,
+      "degat": "0",
+      "pr": 5,
+      "se": 4,
+      "effect": "PV max +11",
+      "type": "armure de métal",
+      "class": "armor"
+    },
+    {
+      "name": "Armure du commandeur",
+      "req": 6,
+      "degat": "0",
+      "pr": 6,
+      "se": 5,
+      "effect": "PV max +12",
+      "type": "armure de métal",
+      "class": "armor"
+    },
+    {
+      "name": "Armure du commandeur",
+      "req": 5,
+      "degat": "0",
+      "pr": 7,
+      "se": 6,
+      "effect": "PV max +14",
+      "type": "armure de métal",
+      "class": "armor"
+    },
+    {
+      "name": "Armure de titan",
+      "req": 12,
+      "degat": "0",
+      "pr": 3,
+      "se": 1,
+      "effect": "PV max +4",
+      "type": "armure de métal",
+      "class": "armor"
+    },
+    {
+      "name": "Armure de titan",
+      "req": 10,
+      "degat": "0",
+      "pr": 5,
+      "se": 2,
+      "effect": "PV max +8",
+      "type": "armure de métal",
+      "class": "armor"
+    },
+    {
+      "name": "Armure de titan",
+      "req": 8,
+      "degat": "0",
+      "pr": 6,
+      "se": 3,
+      "effect": "PV max +15",
+      "type": "armure de métal",
+      "class": "armor"
+    },
+    {
+      "name": "Armure de titan",
+      "req": 7,
+      "degat": "0",
+      "pr": 6,
+      "se": 4,
+      "effect": "PV max +16",
+      "type": "armure de métal",
+      "class": "armor"
+    },
+    {
+      "name": "Armure de titan",
+      "req": 7,
+      "degat": "0",
+      "pr": 7,
+      "se": 5,
+      "effect": "PV max +17",
+      "type": "armure de métal",
+      "class": "armor"
+    },
+    {
+      "name": "Armure de titan",
+      "req": 6,
+      "degat": "0",
+      "pr": 8,
+      "se": 6,
+      "effect": "PV max +18",
+      "type": "armure de métal",
+      "class": "armor"
+    },
+    {
+      "name": "Bracelets de cuir",
+      "req": 5,
+      "degat": "0",
+      "pr": 0,
+      "se": 1,
+      "effect": "",
+      "type": "gant",
+      "class": "armor"
+    },
+    {
+      "name": "Bracelets de cuir",
+      "req": 3,
+      "degat": "0",
+      "pr": 0,
+      "se": 2,
+      "effect": "",
+      "type": "gant",
+      "class": "armor"
+    },
+    {
+      "name": "Bracelets de cuir",
+      "req": 1,
+      "degat": "0",
+      "pr": 1,
+      "se": 3,
+      "effect": "",
+      "type": "gant",
+      "class": "armor"
+    },
+    {
+      "name": "Bracelets de cuir",
+      "req": 0,
+      "degat": "0",
+      "pr": 1,
+      "se": 4,
+      "effect": "",
+      "type": "gant",
+      "class": "armor"
+    },
+    {
+      "name": "Bracelets de cuir",
+      "req": 0,
+      "degat": "0",
+      "pr": 2,
+      "se": 5,
+      "effect": "",
+      "type": "gant",
+      "class": "armor"
+    },
+    {
+      "name": "Bracelets de cuir",
+      "req": 0,
+      "degat": "0",
+      "pr": 3,
+      "se": 6,
+      "effect": "",
+      "type": "gant",
+      "class": "armor"
+    },
+    {
+      "name": "Gants impériaux renforcés",
+      "req": 6,
+      "degat": "0",
+      "pr": 0,
+      "se": 1,
+      "effect": "",
+      "type": "gant",
+      "class": "armor"
+    },
+    {
+      "name": "Gants impériaux renforcés",
+      "req": 4,
+      "degat": "0",
+      "pr": 0,
+      "se": 2,
+      "effect": "",
+      "type": "gant",
+      "class": "armor"
+    },
+    {
+      "name": "Gants impériaux renforcés",
+      "req": 2,
+      "degat": "0",
+      "pr": 1,
+      "se": 3,
+      "effect": "",
+      "type": "gant",
+      "class": "armor"
+    },
+    {
+      "name": "Gants impériaux renforcés",
+      "req": 1,
+      "degat": "0",
+      "pr": 1,
+      "se": 4,
+      "effect": "",
+      "type": "gant",
+      "class": "armor"
+    },
+    {
+      "name": "Gants impériaux renforcés",
+      "req": 1,
+      "degat": "0",
+      "pr": 2,
+      "se": 5,
+      "effect": "",
+      "type": "gant",
+      "class": "armor"
+    },
+    {
+      "name": "Gants impériaux renforcés",
+      "req": 0,
+      "degat": "0",
+      "pr": 3,
+      "se": 6,
+      "effect": "",
+      "type": "gant",
+      "class": "armor"
+    },
+    {
+      "name": "Gantelets Qunaris",
+      "req": 7,
+      "degat": "0",
+      "pr": 0,
+      "se": 1,
+      "effect": "",
+      "type": "gant",
+      "class": "armor"
+    },
+    {
+      "name": "Gantelets Qunaris",
+      "req": 5,
+      "degat": "0",
+      "pr": 1,
+      "se": 2,
+      "effect": "",
+      "type": "gant",
+      "class": "armor"
+    },
+    {
+      "name": "Gantelets Qunaris",
+      "req": 3,
+      "degat": "0",
+      "pr": 2,
+      "se": 3,
+      "effect": "",
+      "type": "gant",
+      "class": "armor"
+    },
+    {
+      "name": "Gantelets Qunaris",
+      "req": 2,
+      "degat": "0",
+      "pr": 2,
+      "se": 4,
+      "effect": "",
+      "type": "gant",
+      "class": "armor"
+    },
+    {
+      "name": "Gantelets Qunaris",
+      "req": 2,
+      "degat": "0",
+      "pr": 3,
+      "se": 5,
+      "effect": "",
+      "type": "gant",
+      "class": "armor"
+    },
+    {
+      "name": "Gantelets Qunaris",
+      "req": 1,
+      "degat": "0",
+      "pr": 4,
+      "se": 6,
+      "effect": "",
+      "type": "gant",
+      "class": "armor"
+    },
+    {
+      "name": "Gantelets elfe anciens",
+      "req": 7,
+      "degat": "0",
+      "pr": 0,
+      "se": 1,
+      "effect": "",
+      "type": "gant",
+      "class": "armor"
+    },
+    {
+      "name": "Gantelets elfe anciens",
+      "req": 5,
+      "degat": "0",
+      "pr": 1,
+      "se": 2,
+      "effect": "Dégâts (c-à-c) +1",
+      "type": "gant",
+      "class": "armor"
+    },
+    {
+      "name": "Gantelets elfe anciens",
+      "req": 3,
+      "degat": "0",
+      "pr": 2,
+      "se": 3,
+      "effect": "Dégâts (c-à-c) +1",
+      "type": "gant",
+      "class": "armor"
+    },
+    {
+      "name": "Gantelets elfe anciens",
+      "req": 2,
+      "degat": "0",
+      "pr": 2,
+      "se": 4,
+      "effect": "Dégâts (c-à-c) +1",
+      "type": "gant",
+      "class": "armor"
+    },
+    {
+      "name": "Gantelets elfe anciens",
+      "req": 2,
+      "degat": "0",
+      "pr": 3,
+      "se": 5,
+      "effect": "Dégâts (c-à-c) +2",
+      "type": "gant",
+      "class": "armor"
+    },
+    {
+      "name": "Gantelets elfe anciens",
+      "req": 1,
+      "degat": "0",
+      "pr": 4,
+      "se": 6,
+      "effect": "Dégâts (c-à-c) +3",
+      "type": "gant",
+      "class": "armor"
+    },
+    {
+      "name": "Étreinte de Katriel",
+      "req": 8,
+      "degat": "0",
+      "pr": 0,
+      "se": 1,
+      "effect": "Dégâts (c-à-c) +1",
+      "type": "gant",
+      "class": "armor"
+    },
+    {
+      "name": "Étreinte de Katriel",
+      "req": 6,
+      "degat": "0",
+      "pr": 2,
+      "se": 2,
+      "effect": "Dégâts (c-à-c) +2",
+      "type": "gant",
+      "class": "armor"
+    },
+    {
+      "name": "Étreinte de Katriel",
+      "req": 4,
+      "degat": "0",
+      "pr": 3,
+      "se": 3,
+      "effect": "Dégâts (c-à-c) +2",
+      "type": "gant",
+      "class": "armor"
+    },
+    {
+      "name": "Étreinte de Katriel",
+      "req": 3,
+      "degat": "0",
+      "pr": 3,
+      "se": 4,
+      "effect": "Dégâts (c-à-c) +2",
+      "type": "gant",
+      "class": "armor"
+    },
+    {
+      "name": "Étreinte de Katriel",
+      "req": 3,
+      "degat": "0",
+      "pr": 4,
+      "se": 5,
+      "effect": "Dégâts (c-à-c) +3",
+      "type": "gant",
+      "class": "armor"
+    },
+    {
+      "name": "Étreinte de Katriel",
+      "req": 2,
+      "degat": "0",
+      "pr": 5,
+      "se": 6,
+      "effect": "Dégâts (c-à-c) +4",
+      "type": "gant",
+      "class": "armor"
+    },
+    {
+      "name": "Cuissardes gambisonnées de base",
+      "req": 5,
+      "degat": "0",
+      "pr": 0,
+      "se": 1,
+      "effect": "",
+      "type": "jambe en cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Cuissardes gambisonnées de base",
+      "req": 3,
+      "degat": "0",
+      "pr": 0,
+      "se": 2,
+      "effect": "",
+      "type": "jambe en cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Cuissardes gambisonnées de base",
+      "req": 1,
+      "degat": "0",
+      "pr": 1,
+      "se": 3,
+      "effect": "",
+      "type": "jambe en cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Cuissardes gambisonnées de base",
+      "req": 0,
+      "degat": "0",
+      "pr": 1,
+      "se": 4,
+      "effect": "",
+      "type": "jambe en cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Cuissardes gambisonnées de base",
+      "req": 0,
+      "degat": "0",
+      "pr": 2,
+      "se": 5,
+      "effect": "",
+      "type": "jambe en cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Cuissardes gambisonnées de base",
+      "req": 0,
+      "degat": "0",
+      "pr": 3,
+      "se": 6,
+      "effect": "",
+      "type": "jambe en cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Cuissardes dalatiennes",
+      "req": 6,
+      "degat": "0",
+      "pr": 0,
+      "se": 1,
+      "effect": "",
+      "type": "jambe en cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Cuissardes dalatiennes",
+      "req": 4,
+      "degat": "0",
+      "pr": 1,
+      "se": 2,
+      "effect": "",
+      "type": "jambe en cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Cuissardes dalatiennes",
+      "req": 2,
+      "degat": "0",
+      "pr": 2,
+      "se": 3,
+      "effect": "",
+      "type": "jambe en cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Cuissardes dalatiennes",
+      "req": 1,
+      "degat": "0",
+      "pr": 2,
+      "se": 4,
+      "effect": "",
+      "type": "jambe en cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Cuissardes dalatiennes",
+      "req": 1,
+      "degat": "0",
+      "pr": 3,
+      "se": 5,
+      "effect": "",
+      "type": "jambe en cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Cuissardes dalatiennes",
+      "req": 0,
+      "degat": "0",
+      "pr": 4,
+      "se": 6,
+      "effect": "",
+      "type": "jambe en cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Cuissardes en cuir de drake",
+      "req": 7,
+      "degat": "0",
+      "pr": 0,
+      "se": 1,
+      "effect": "",
+      "type": "jambe en cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Cuissardes en cuir de drake",
+      "req": 5,
+      "degat": "0",
+      "pr": 2,
+      "se": 2,
+      "effect": "",
+      "type": "jambe en cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Cuissardes en cuir de drake",
+      "req": 3,
+      "degat": "0",
+      "pr": 3,
+      "se": 3,
+      "effect": "",
+      "type": "jambe en cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Cuissardes en cuir de drake",
+      "req": 2,
+      "degat": "0",
+      "pr": 3,
+      "se": 4,
+      "effect": "",
+      "type": "jambe en cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Cuissardes en cuir de drake",
+      "req": 2,
+      "degat": "0",
+      "pr": 4,
+      "se": 5,
+      "effect": "",
+      "type": "jambe en cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Cuissardes en cuir de drake",
+      "req": 1,
+      "degat": "0",
+      "pr": 5,
+      "se": 6,
+      "effect": "",
+      "type": "jambe en cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Cuissardes de Varathorn",
+      "req": 8,
+      "degat": "0",
+      "pr": 0,
+      "se": 1,
+      "effect": "PV max +1",
+      "type": "jambe en cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Cuissardes de Varathorn",
+      "req": 6,
+      "degat": "0",
+      "pr": 2,
+      "se": 2,
+      "effect": "PV max +2",
+      "type": "jambe en cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Cuissardes de Varathorn",
+      "req": 4,
+      "degat": "0",
+      "pr": 3,
+      "se": 3,
+      "effect": "PV max +3",
+      "type": "jambe en cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Cuissardes de Varathorn",
+      "req": 3,
+      "degat": "0",
+      "pr": 3,
+      "se": 4,
+      "effect": "PV max +4",
+      "type": "jambe en cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Cuissardes de Varathorn",
+      "req": 3,
+      "degat": "0",
+      "pr": 4,
+      "se": 5,
+      "effect": "PV max +5",
+      "type": "jambe en cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Cuissardes de Varathorn",
+      "req": 2,
+      "degat": "0",
+      "pr": 5,
+      "se": 6,
+      "effect": "PV max +7",
+      "type": "jambe en cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Célérité impériale",
+      "req": 9,
+      "degat": "0",
+      "pr": 1,
+      "se": 1,
+      "effect": "PV max +2",
+      "type": "jambe en cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Célérité impériale",
+      "req": 7,
+      "degat": "0",
+      "pr": 3,
+      "se": 2,
+      "effect": "PV max +3",
+      "type": "jambe en cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Célérité impériale",
+      "req": 5,
+      "degat": "0",
+      "pr": 4,
+      "se": 3,
+      "effect": "PV max +6",
+      "type": "jambe en cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Célérité impériale",
+      "req": 4,
+      "degat": "0",
+      "pr": 4,
+      "se": 4,
+      "effect": "PV max +7",
+      "type": "jambe en cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Célérité impériale",
+      "req": 4,
+      "degat": "0",
+      "pr": 5,
+      "se": 5,
+      "effect": "PV max +8",
+      "type": "jambe en cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Célérité impériale",
+      "req": 3,
+      "degat": "0",
+      "pr": 6,
+      "se": 6,
+      "effect": "PV max +10",
+      "type": "jambe en cuir",
+      "class": "armor"
+    },
+    {
+      "name": "Jambières de métal de base",
+      "req": 7,
+      "degat": "0",
+      "pr": 0,
+      "se": 1,
+      "effect": "",
+      "type": "jambe en métal",
+      "class": "armor"
+    },
+    {
+      "name": "Jambières de métal de base",
+      "req": 5,
+      "degat": "0",
+      "pr": 1,
+      "se": 2,
+      "effect": "",
+      "type": "jambe en métal",
+      "class": "armor"
+    },
+    {
+      "name": "Jambières de métal de base",
+      "req": 3,
+      "degat": "0",
+      "pr": 2,
+      "se": 3,
+      "effect": "",
+      "type": "jambe en métal",
+      "class": "armor"
+    },
+    {
+      "name": "Jambières de métal de base",
+      "req": 2,
+      "degat": "0",
+      "pr": 2,
+      "se": 4,
+      "effect": "",
+      "type": "jambe en métal",
+      "class": "armor"
+    },
+    {
+      "name": "Jambières de métal de base",
+      "req": 2,
+      "degat": "0",
+      "pr": 3,
+      "se": 5,
+      "effect": "",
+      "type": "jambe en métal",
+      "class": "armor"
+    },
+    {
+      "name": "Jambières de métal de base",
+      "req": 1,
+      "degat": "0",
+      "pr": 4,
+      "se": 6,
+      "effect": "",
+      "type": "jambe en métal",
+      "class": "armor"
+    },
+    {
+      "name": "Jambières d'Evon le Grand",
+      "req": 8,
+      "degat": "0",
+      "pr": 0,
+      "se": 1,
+      "effect": "",
+      "type": "jambe en métal",
+      "class": "armor"
+    },
+    {
+      "name": "Jambières d'Evon le Grand",
+      "req": 6,
+      "degat": "0",
+      "pr": 2,
+      "se": 2,
+      "effect": "",
+      "type": "jambe en métal",
+      "class": "armor"
+    },
+    {
+      "name": "Jambières d'Evon le Grand",
+      "req": 4,
+      "degat": "0",
+      "pr": 3,
+      "se": 3,
+      "effect": "",
+      "type": "jambe en métal",
+      "class": "armor"
+    },
+    {
+      "name": "Jambières d'Evon le Grand",
+      "req": 3,
+      "degat": "0",
+      "pr": 3,
+      "se": 4,
+      "effect": "",
+      "type": "jambe en métal",
+      "class": "armor"
+    },
+    {
+      "name": "Jambières d'Evon le Grand",
+      "req": 3,
+      "degat": "0",
+      "pr": 4,
+      "se": 5,
+      "effect": "",
+      "type": "jambe en métal",
+      "class": "armor"
+    },
+    {
+      "name": "Jambières d'Evon le Grand",
+      "req": 2,
+      "degat": "0",
+      "pr": 5,
+      "se": 6,
+      "effect": "",
+      "type": "jambe en métal",
+      "class": "armor"
+    },
+    {
+      "name": "Jambières de la légion des morts",
+      "req": 9,
+      "degat": "0",
+      "pr": 1,
+      "se": 1,
+      "effect": "",
+      "type": "jambe en métal",
+      "class": "armor"
+    },
+    {
+      "name": "Jambières de la légion des morts",
+      "req": 7,
+      "degat": "0",
+      "pr": 3,
+      "se": 2,
+      "effect": "",
+      "type": "jambe en métal",
+      "class": "armor"
+    },
+    {
+      "name": "Jambières de la légion des morts",
+      "req": 5,
+      "degat": "0",
+      "pr": 4,
+      "se": 3,
+      "effect": "",
+      "type": "jambe en métal",
+      "class": "armor"
+    },
+    {
+      "name": "Jambières de la légion des morts",
+      "req": 4,
+      "degat": "0",
+      "pr": 4,
+      "se": 4,
+      "effect": "",
+      "type": "jambe en métal",
+      "class": "armor"
+    },
+    {
+      "name": "Jambières de la légion des morts",
+      "req": 4,
+      "degat": "0",
+      "pr": 5,
+      "se": 5,
+      "effect": "",
+      "type": "jambe en métal",
+      "class": "armor"
+    },
+    {
+      "name": "Jambières de la légion des morts",
+      "req": 3,
+      "degat": "0",
+      "pr": 6,
+      "se": 6,
+      "effect": "",
+      "type": "jambe en métal",
+      "class": "armor"
+    },
+    {
+      "name": "Jambières de commandeur",
+      "req": 10,
+      "degat": "0",
+      "pr": 1,
+      "se": 1,
+      "effect": "PV max +2",
+      "type": "jambe en métal",
+      "class": "armor"
+    },
+    {
+      "name": "Jambières de commandeur",
+      "req": 8,
+      "degat": "0",
+      "pr": 3,
+      "se": 2,
+      "effect": "PV max +3",
+      "type": "jambe en métal",
+      "class": "armor"
+    },
+    {
+      "name": "Jambières de commandeur",
+      "req": 6,
+      "degat": "0",
+      "pr": 4,
+      "se": 3,
+      "effect": "PV max +5",
+      "type": "jambe en métal",
+      "class": "armor"
+    },
+    {
+      "name": "Jambières de commandeur",
+      "req": 5,
+      "degat": "0",
+      "pr": 4,
+      "se": 4,
+      "effect": "PV max +6",
+      "type": "jambe en métal",
+      "class": "armor"
+    },
+    {
+      "name": "Jambières de commandeur",
+      "req": 5,
+      "degat": "0",
+      "pr": 5,
+      "se": 5,
+      "effect": "PV max +7",
+      "type": "jambe en métal",
+      "class": "armor"
+    },
+    {
+      "name": "Jambières de commandeur",
+      "req": 3,
+      "degat": "0",
+      "pr": 6,
+      "se": 6,
+      "effect": "PV max +9",
+      "type": "jambe en métal",
+      "class": "armor"
+    },
+    {
+      "name": "Jambières de titan",
+      "req": 11,
+      "degat": "0",
+      "pr": 2,
+      "se": 1,
+      "effect": "PV max +3",
+      "type": "jambe en métal",
+      "class": "armor"
+    },
+    {
+      "name": "Jambières de titan",
+      "req": 9,
+      "degat": "0",
+      "pr": 4,
+      "se": 2,
+      "effect": "PV max +5",
+      "type": "jambe en métal",
+      "class": "armor"
+    },
+    {
+      "name": "Jambières de titan",
+      "req": 7,
+      "degat": "0",
+      "pr": 5,
+      "se": 3,
+      "effect": "PV max +10",
+      "type": "jambe en métal",
+      "class": "armor"
+    },
+    {
+      "name": "Jambières de titan",
+      "req": 6,
+      "degat": "0",
+      "pr": 5,
+      "se": 4,
+      "effect": "PV max +11",
+      "type": "jambe en métal",
+      "class": "armor"
+    },
+    {
+      "name": "Jambières de titan",
+      "req": 5,
+      "degat": "0",
+      "pr": 6,
+      "se": 5,
+      "effect": "PV max +12",
+      "type": "jambe en métal",
+      "class": "armor"
+    },
+    {
+      "name": "Jambières de titan",
+      "req": 4,
+      "degat": "0",
+      "pr": 7,
+      "se": 6,
+      "effect": "PV max +14",
+      "type": "jambe en métal",
+      "class": "armor"
+    },
+    {
+      "name": "Bottes de cuir de base",
+      "req": 5,
+      "degat": "0",
+      "pr": 0,
+      "se": 1,
+      "effect": "",
+      "type": "botte",
+      "class": "armor"
+    },
+    {
+      "name": "Bottes de cuir de base",
+      "req": 3,
+      "degat": "0",
+      "pr": 0,
+      "se": 2,
+      "effect": "",
+      "type": "botte",
+      "class": "armor"
+    },
+    {
+      "name": "Bottes de cuir de base",
+      "req": 1,
+      "degat": "0",
+      "pr": 1,
+      "se": 3,
+      "effect": "",
+      "type": "botte",
+      "class": "armor"
+    },
+    {
+      "name": "Bottes de cuir de base",
+      "req": 0,
+      "degat": "0",
+      "pr": 1,
+      "se": 4,
+      "effect": "",
+      "type": "botte",
+      "class": "armor"
+    },
+    {
+      "name": "Bottes de cuir de base",
+      "req": 0,
+      "degat": "0",
+      "pr": 2,
+      "se": 5,
+      "effect": "",
+      "type": "botte",
+      "class": "armor"
+    },
+    {
+      "name": "Bottes de cuir de base",
+      "req": 0,
+      "degat": "0",
+      "pr": 3,
+      "se": 6,
+      "effect": "",
+      "type": "botte",
+      "class": "armor"
+    },
+    {
+      "name": "Bottes hideuses",
+      "req": 7,
+      "degat": "0",
+      "pr": 0,
+      "se": 1,
+      "effect": "",
+      "type": "botte",
+      "class": "armor"
+    },
+    {
+      "name": "Bottes hideuses",
+      "req": 5,
+      "degat": "0",
+      "pr": 0,
+      "se": 2,
+      "effect": "",
+      "type": "botte",
+      "class": "armor"
+    },
+    {
+      "name": "Bottes hideuses",
+      "req": 3,
+      "degat": "0",
+      "pr": 1,
+      "se": 3,
+      "effect": "",
+      "type": "botte",
+      "class": "armor"
+    },
+    {
+      "name": "Bottes hideuses",
+      "req": 2,
+      "degat": "0",
+      "pr": 1,
+      "se": 4,
+      "effect": "",
+      "type": "botte",
+      "class": "armor"
+    },
+    {
+      "name": "Bottes hideuses",
+      "req": 2,
+      "degat": "0",
+      "pr": 2,
+      "se": 5,
+      "effect": "",
+      "type": "botte",
+      "class": "armor"
+    },
+    {
+      "name": "Bottes hideuses",
+      "req": 1,
+      "degat": "0",
+      "pr": 3,
+      "se": 6,
+      "effect": "",
+      "type": "botte",
+      "class": "armor"
+    },
+    {
+      "name": "Grèves de Deygan",
+      "req": 8,
+      "degat": "0",
+      "pr": 0,
+      "se": 1,
+      "effect": "",
+      "type": "botte",
+      "class": "armor"
+    },
+    {
+      "name": "Grèves de Deygan",
+      "req": 6,
+      "degat": "0",
+      "pr": 1,
+      "se": 2,
+      "effect": "",
+      "type": "botte",
+      "class": "armor"
+    },
+    {
+      "name": "Grèves de Deygan",
+      "req": 4,
+      "degat": "0",
+      "pr": 2,
+      "se": 3,
+      "effect": "",
+      "type": "botte",
+      "class": "armor"
+    },
+    {
+      "name": "Grèves de Deygan",
+      "req": 3,
+      "degat": "0",
+      "pr": 2,
+      "se": 4,
+      "effect": "",
+      "type": "botte",
+      "class": "armor"
+    },
+    {
+      "name": "Grèves de Deygan",
+      "req": 3,
+      "degat": "0",
+      "pr": 3,
+      "se": 5,
+      "effect": "",
+      "type": "botte",
+      "class": "armor"
+    },
+    {
+      "name": "Grèves de Deygan",
+      "req": 2,
+      "degat": "0",
+      "pr": 4,
+      "se": 6,
+      "effect": "",
+      "type": "botte",
+      "class": "armor"
+    },
+    {
+      "name": "Faisselins de Blancmartel",
+      "req": 8,
+      "degat": "0",
+      "pr": 0,
+      "se": 1,
+      "effect": "Bonus distance de saut +0,5 m.",
+      "type": "botte",
+      "class": "armor"
+    },
+    {
+      "name": "Faisselins de Blancmartel",
+      "req": 6,
+      "degat": "0",
+      "pr": 1,
+      "se": 2,
+      "effect": "Bonus distance de saut +1 m.",
+      "type": "botte",
+      "class": "armor"
+    },
+    {
+      "name": "Faisselins de Blancmartel",
+      "req": 4,
+      "degat": "0",
+      "pr": 2,
+      "se": 3,
+      "effect": "Bonus distance de saut +1 m.",
+      "type": "botte",
+      "class": "armor"
+    },
+    {
+      "name": "Faisselins de Blancmartel",
+      "req": 3,
+      "degat": "0",
+      "pr": 2,
+      "se": 4,
+      "effect": "Bonus distance de saut +1 m.",
+      "type": "botte",
+      "class": "armor"
+    },
+    {
+      "name": "Faisselins de Blancmartel",
+      "req": 3,
+      "degat": "0",
+      "pr": 3,
+      "se": 5,
+      "effect": "Bonus distance de saut +1,5 m.",
+      "type": "botte",
+      "class": "armor"
+    },
+    {
+      "name": "Faisselins de Blancmartel",
+      "req": 2,
+      "degat": "0",
+      "pr": 4,
+      "se": 6,
+      "effect": "Bonus distance de saut +2 m.",
+      "type": "botte",
+      "class": "armor"
+    },
+    {
+      "name": "Pattes de lion",
+      "req": 8,
+      "degat": "0",
+      "pr": 0,
+      "se": 1,
+      "effect": "Bonus distance de saut +1 m.",
+      "type": "botte",
+      "class": "armor"
+    },
+    {
+      "name": "Pattes de lion",
+      "req": 6,
+      "degat": "0",
+      "pr": 2,
+      "se": 2,
+      "effect": "Bonus distance de saut +2 m.",
+      "type": "botte",
+      "class": "armor"
+    },
+    {
+      "name": "Pattes de lion",
+      "req": 4,
+      "degat": "0",
+      "pr": 3,
+      "se": 3,
+      "effect": "Bonus distance de saut +2 m.",
+      "type": "botte",
+      "class": "armor"
+    },
+    {
+      "name": "Pattes de lion",
+      "req": 3,
+      "degat": "0",
+      "pr": 3,
+      "se": 4,
+      "effect": "Bonus distance de saut +2 m.",
+      "type": "botte",
+      "class": "armor"
+    },
+    {
+      "name": "Pattes de lion",
+      "req": 3,
+      "degat": "0",
+      "pr": 4,
+      "se": 5,
+      "effect": "Bonus distance de saut +2,5 m.",
+      "type": "botte",
+      "class": "armor"
+    },
+    {
+      "name": "Pattes de lion",
+      "req": 2,
+      "degat": "0",
+      "pr": 5,
+      "se": 6,
+      "effect": "Bonus distance de saut +3 m.",
+      "type": "botte",
+      "class": "armor"
+    },
+    {
+      "name": "Robe d'acolyte",
+      "req": 4,
+      "degat": "0",
+      "pr": 0,
+      "se": 1,
+      "effect": "END +1",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe d'acolyte",
+      "req": 2,
+      "degat": "0",
+      "pr": 0,
+      "se": 2,
+      "effect": "END +2",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe d'acolyte",
+      "req": 0,
+      "degat": "0",
+      "pr": 0,
+      "se": 3,
+      "effect": "END +3",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe d'acolyte",
+      "req": 0,
+      "degat": "0",
+      "pr": 0,
+      "se": 4,
+      "effect": "END +5",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe d'acolyte",
+      "req": 0,
+      "degat": "0",
+      "pr": 1,
+      "se": 5,
+      "effect": "END +7",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe d'acolyte",
+      "req": 0,
+      "degat": "0",
+      "pr": 2,
+      "se": 6,
+      "effect": "END +9",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de premier enchanteur",
+      "req": 4,
+      "degat": "0",
+      "pr": 0,
+      "se": 1,
+      "effect": "END +2",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de premier enchanteur",
+      "req": 2,
+      "degat": "0",
+      "pr": 0,
+      "se": 2,
+      "effect": "END +3",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de premier enchanteur",
+      "req": 0,
+      "degat": "0",
+      "pr": 1,
+      "se": 3,
+      "effect": "END +5",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de premier enchanteur",
+      "req": 0,
+      "degat": "0",
+      "pr": 1,
+      "se": 4,
+      "effect": "END +7",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de premier enchanteur",
+      "req": 0,
+      "degat": "0",
+      "pr": 2,
+      "se": 5,
+      "effect": "END +9",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de premier enchanteur",
+      "req": 0,
+      "degat": "0",
+      "pr": 3,
+      "se": 6,
+      "effect": "END +11",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de mage tévintide",
+      "req": 5,
+      "degat": "0",
+      "pr": 0,
+      "se": 1,
+      "effect": "END +3",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de mage tévintide",
+      "req": 3,
+      "degat": "0",
+      "pr": 1,
+      "se": 2,
+      "effect": "END +5",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de mage tévintide",
+      "req": 1,
+      "degat": "0",
+      "pr": 2,
+      "se": 3,
+      "effect": "END +10",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de mage tévintide",
+      "req": 0,
+      "degat": "0",
+      "pr": 2,
+      "se": 4,
+      "effect": "END +12",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de mage tévintide",
+      "req": 0,
+      "degat": "0",
+      "pr": 3,
+      "se": 5,
+      "effect": "END +14",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de mage tévintide",
+      "req": 0,
+      "degat": "0",
+      "pr": 4,
+      "se": 6,
+      "effect": "END +16",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de l'Apothicaire",
+      "req": 6,
+      "degat": "0",
+      "pr": 0,
+      "se": 1,
+      "effect": "END +2. Boire une potion avec un effet augmente votre END max de +1 pdt la durée de celui-ci (cumulable).",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de l'Apothicaire",
+      "req": 4,
+      "degat": "0",
+      "pr": 1,
+      "se": 2,
+      "effect": "END +3. Boire une potion avec un effet augmente votre END max de +2 pdt la durée de celui-ci (cumulable).",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de l'Apothicaire",
+      "req": 2,
+      "degat": "0",
+      "pr": 2,
+      "se": 3,
+      "effect": "END +5. Boire une potion avec un effet augmente votre END max de +3 pdt la durée de celui-ci (cumulable).",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de l'Apothicaire",
+      "req": 2,
+      "degat": "0",
+      "pr": 2,
+      "se": 4,
+      "effect": "END +7. Boire une potion avec un effet augmente votre END max de +3 pdt la durée de celui-ci (cumulable).",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de l'Apothicaire",
+      "req": 1,
+      "degat": "0",
+      "pr": 3,
+      "se": 5,
+      "effect": "END +7. Boire une potion avec un effet augmente votre END max de +4 pdt la durée de celui-ci (cumulable).",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de l'Apothicaire",
+      "req": 0,
+      "degat": "0",
+      "pr": 4,
+      "se": 6,
+      "effect": "END +9. Boire une potion avec un effet augmente votre END max de +5 pdt la durée de celui-ci (cumulable).",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de possession",
+      "req": 6,
+      "degat": "0",
+      "pr": 0,
+      "se": 1,
+      "effect": "Les sorts de dégâts vous rendent 1 PV par ennemi touché.",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de possession",
+      "req": 4,
+      "degat": "0",
+      "pr": 2,
+      "se": 2,
+      "effect": "END +2.  Les sorts de dégâts vous rendent 1 PV par ennemi touché.",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de possession",
+      "req": 2,
+      "degat": "0",
+      "pr": 3,
+      "se": 3,
+      "effect": "END +5.  Les sorts de dégâts vous rendent 1 PV par ennemi touché.",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de possession",
+      "req": 2,
+      "degat": "0",
+      "pr": 3,
+      "se": 4,
+      "effect": "END +7.  Les sorts de dégâts vous rendent 1 PV par ennemi touché.",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de possession",
+      "req": 1,
+      "degat": "0",
+      "pr": 4,
+      "se": 5,
+      "effect": "END +7.  Les sorts de dégâts vous rendent 2 PV par ennemi touché.",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de possession",
+      "req": 0,
+      "degat": "0",
+      "pr": 5,
+      "se": 6,
+      "effect": "END +9.  Les sorts de dégâts vous rendent 3 PV par ennemi touché.",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de diffraction d'élite",
+      "req": 9,
+      "degat": "0",
+      "pr": 2,
+      "se": 1,
+      "effect": "Au début d'un combat, vous gagnez un bouclier magique dont les PV sont égaux à la moitié de votre END actuelle, les PV du boucliers sont ponctionnés avant les votres.",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de diffraction d'élite",
+      "req": 7,
+      "degat": "0",
+      "pr": 4,
+      "se": 2,
+      "effect": "Résistance Magique +1. Au début d'un combat, vous gagnez un bouclier magique dont les PV sont égaux à la moitié de votre END actuelle, les PV du boucliers sont ponctionnés avant les votres.",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de diffraction d'élite",
+      "req": 5,
+      "degat": "0",
+      "pr": 5,
+      "se": 3,
+      "effect": "Résistance Magique +1. END +5. Au début d'un combat, vous gagnez un bouclier magique dont les PV sont égaux à la moitié de votre END actuelle, les PV du boucliers sont ponctionnés avant les votres.",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de diffraction d'élite",
+      "req": 4,
+      "degat": "0",
+      "pr": 5,
+      "se": 4,
+      "effect": "Résistance Magique +1. END +7. Au début d'un combat, vous gagnez un bouclier magique dont les PV sont égaux à la moitié de votre END actuelle, les PV du boucliers sont ponctionnés avant les votres.",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de diffraction d'élite",
+      "req": 4,
+      "degat": "0",
+      "pr": 6,
+      "se": 5,
+      "effect": "Résistance Magique +1. END +10. Au début d'un combat, vous gagnez un bouclier magique dont les PV sont égaux à la moitié de votre END actuelle, les PV du boucliers sont ponctionnés avant les votres.",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de diffraction d'élite",
+      "req": 3,
+      "degat": "0",
+      "pr": 7,
+      "se": 6,
+      "effect": "Résistance Magique +1. END +15. Au début d'un combat, vous gagnez un bouclier magique dont les PV sont égaux à la moitié de votre END actuelle, les PV du boucliers sont ponctionnés avant les votres.",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de seigneur inquisiteur d'élite",
+      "req": 8,
+      "degat": "0",
+      "pr": 1,
+      "se": 1,
+      "effect": "Vous obtenez un bonus à tous vos dégâts équivalents à la moitié de votre valeur de VOL, le tout moins 3.",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de seigneur inquisiteur d'élite",
+      "req": 6,
+      "degat": "0",
+      "pr": 3,
+      "se": 2,
+      "effect": "Vous obtenez un bonus à tous vos dégâts équivalents à la moitié de votre valeur de VOL, le tout moins 1.",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de seigneur inquisiteur d'élite",
+      "req": 4,
+      "degat": "0",
+      "pr": 4,
+      "se": 3,
+      "effect": "Vous obtenez un bonus à tous vos dégâts équivalents à la moitié de votre valeur de VOL.",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de seigneur inquisiteur d'élite",
+      "req": 3,
+      "degat": "0",
+      "pr": 4,
+      "se": 4,
+      "effect": "Vous obtenez un bonus à tous vos dégâts équivalents à la moitié de votre valeur de VOL.",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de seigneur inquisiteur d'élite",
+      "req": 3,
+      "degat": "0",
+      "pr": 5,
+      "se": 5,
+      "effect": "Vous obtenez un bonus à tous vos dégâts équivalents à 1 + la moitié de votre valeur de VOL.",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de seigneur inquisiteur d'élite",
+      "req": 2,
+      "degat": "0",
+      "pr": 6,
+      "se": 6,
+      "effect": "Vous obtenez un bonus à tous vos dégâts équivalents à 2 + la moitié de votre valeur de VOL.",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe d'archonte d'élite",
+      "req": 8,
+      "degat": "0",
+      "pr": 1,
+      "se": 1,
+      "effect": "END +4. Au 1er tour d'un combat, le coût de votre 1er sort est réduit de votre valeur de PR.",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe d'archonte d'élite",
+      "req": 6,
+      "degat": "0",
+      "pr": 3,
+      "se": 2,
+      "effect": "END +8. Au 1er tour d'un combat, le coût de votre 1er sort est réduit de votre valeur de PR.",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe d'archonte d'élite",
+      "req": 4,
+      "degat": "0",
+      "pr": 4,
+      "se": 3,
+      "effect": "END +15. Au 1er tour d'un combat, le coût de votre 1er sort est réduit de votre valeur de PR.",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe d'archonte d'élite",
+      "req": 3,
+      "degat": "0",
+      "pr": 4,
+      "se": 4,
+      "effect": "END +17. Au 1er tour d'un combat, le coût de votre 1er sort est réduit de votre valeur de PR.",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe d'archonte d'élite",
+      "req": 3,
+      "degat": "0",
+      "pr": 5,
+      "se": 5,
+      "effect": "END +17. Au début d'un combat, le coût de vos 2 1er sorts sont réduits de votre valeur de PR.",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe d'archonte d'élite",
+      "req": 2,
+      "degat": "0",
+      "pr": 6,
+      "se": 6,
+      "effect": "END +20. Au début d'un combat, le coût de vos 2 1er sorts sont réduits de votre valeur de PR.",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de l'augure d'élite",
+      "req": 7,
+      "degat": "0",
+      "pr": 0,
+      "se": 1,
+      "effect": "Vous pouvez dépenser vos PV (1,5 fois le coût normal) au lieu des PA pour lancer des sorts.",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de l'augure d'élite",
+      "req": 5,
+      "degat": "0",
+      "pr": 2,
+      "se": 2,
+      "effect": "Vous pouvez dépenser vos PV au lieu des PA pour lancer des sorts.",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de l'augure d'élite",
+      "req": 3,
+      "degat": "0",
+      "pr": 3,
+      "se": 3,
+      "effect": "Vous pouvez dépenser vos PV au lieu des PA pour lancer des sorts, si vous le faite, vous avez +1 chance de critique sur ce sort.",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de l'augure d'élite",
+      "req": 2,
+      "degat": "0",
+      "pr": 3,
+      "se": 4,
+      "effect": "Vous pouvez dépenser vos PV au lieu des PA pour lancer des sorts, si vous le faite, vous avez +1 chance de critique sur ce sort.",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de l'augure d'élite",
+      "req": 2,
+      "degat": "0",
+      "pr": 4,
+      "se": 5,
+      "effect": "Vous pouvez dépenser vos PV au lieu des PA pour lancer des sorts, si vous le faite, vous avez +2 chance de critique sur ce sort.",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de l'augure d'élite",
+      "req": 1,
+      "degat": "0",
+      "pr": 5,
+      "se": 6,
+      "effect": "Vous pouvez dépenser vos PV au lieu des PA pour lancer des sorts, si vous le faite, vous avez +3 chance de critique sur ce sort.",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de Sov Rheyn d'élite",
+      "req": 8,
+      "degat": "0",
+      "pr": 1,
+      "se": 1,
+      "effect": "END +5. Vous pouvez relancer instantanément chaque sort raté en dépensant 1,5 fois (arr. +) son coût précédent.",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de Sov Rheyn d'élite",
+      "req": 6,
+      "degat": "0",
+      "pr": 3,
+      "se": 2,
+      "effect": "Affinité Magique +1. END +5. Vous pouvez relancer instantanément chaque sort raté en dépensant 1,5 fois (arr. +) son coût précédent.",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de Sov Rheyn d'élite",
+      "req": 4,
+      "degat": "0",
+      "pr": 4,
+      "se": 3,
+      "effect": "Affinité Magique +1. END +10. Vous pouvez relancer instantanément chaque sort raté en dépensant 1,5 fois (arr. +) son coût précédent.",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de Sov Rheyn d'élite",
+      "req": 3,
+      "degat": "0",
+      "pr": 4,
+      "se": 4,
+      "effect": "Affinité Magique +1. END +12. Vous pouvez relancer instantanément chaque sort raté en dépensant 1,5 fois (arr. +) son coût précédent.",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de Sov Rheyn d'élite",
+      "req": 3,
+      "degat": "0",
+      "pr": 5,
+      "se": 5,
+      "effect": "Affinité Magique +1. END +15. Vous pouvez relancer instantanément chaque sort raté en dépensant 1,5 fois (arr. +) son coût précédent.",
+      "type": "robe de mage",
+      "class": "armor"
+    },
+    {
+      "name": "Robe de Sov Rheyn d'élite\n",
+      "req": 2,
+      "degat": "0",
+      "pr": 6,
+      "se": 6,
+      "effect": "Affinité Magique +2. END +15. Vous pouvez relancer instantanément chaque sort raté en dépensant 1,5 fois (arr. +) son coût précédent.",
+      "type": "robe de mage",
+      "class": "armor"
+    }
+   ]
+}
