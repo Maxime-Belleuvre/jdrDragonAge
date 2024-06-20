@@ -17,8 +17,8 @@ function getStuffs(url){
 }
 getStuffs("./json/tryStuff.json")
 
-import * as manageEvent from "/js/event.js"
-import {resetBlockForm} from "/js/modifyDOM.js"
+import * as manageEvent from "./jdrDragonAge/js/event.js"
+import {resetBlockForm} from "./jdrDragonAge/js/modifyDOM.js"
 
 
 
